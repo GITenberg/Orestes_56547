@@ -1,0 +1,3836 @@
+The Project Gutenberg EBook of Orestes, by Euripides
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Orestes
+
+Author: Euripides
+
+Translator: Axel Gabriel Sjöström
+
+Release Date: February 11, 2018 [EBook #56547]
+
+Language: Swedish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ORESTES ***
+
+
+
+
+Produced by Jari Koivisto
+
+
+
+
+
+
+
+
+EURIPIDES' ORESTES
+
+Öfversatt af
+
+Axel Gabriel Sjöström
+
+
+
+
+
+Helsingfors,
+hos J. C. Frenckell & Son,
+1843.
+
+
+
+
+
+
+                         L. B. S.
+
+      Sequimur textum Editionis Stereotypae, Lipsiae,
+      ex officina Caroli Tauchnitii, anno 1828 editae.
+
+
+
+PERSONERNE:
+
+ ELEKTRA.
+ HELENA.
+ HERMIONE.
+ KHOREN.
+ MENELAOS.
+ TYNDAREUS.
+ PYLADES.
+ SÄNDEBUDET.
+ PHRYGIERN.
+ APOLLON.
+
+
+
+ELEKTRA.
+
+    Ej finns så vådligt något ord, att tala ut,
+    Ej lidelse, ej gudaskickadt olycksfall,
+    Att ej dess börda menskans lynne lyftade.
+    Ty han, den sälle, -- ej hans öde hånar jag --
+    Zeussonen sjelf, som folket påstår, Tantalos,                 5
+    Rädd för den häll, som på hans hjessa reser sig,
+    I luften sväfvar, lidande en sådan näpst, --
+    Så sägs -- derför, att han mot gudar, menska blott,
+    Åtnjutande gemensamt bords utmärkelse,
+    Ej tand för tunga höll, som otäck krämpa är.                 10
+    Han åt Pelops var far, och Atreus Pelops' son,
+    Åt hvilken Klotho på sin slända tvinnade
+    Tvedrägt, att krig emot Thyestes, egen bror,
+    Tillställa; dock, hvi repa upp hvad tigas bör?
+    Nu drap hans barn, och dem på bordet bar Atreus.             15
+    Af samme Atreus -- med det andra tiger jag --
+    Var store, om han stor bör heta, Agamemnon son,
+    Och Menelaos af en Kretisk mor, Aerope.
+    Nu äktar sin af gudar hatad Helena
+    Drott Menelaos; Klytaimnestras bädd, den beryktade           20
+    Hos de Helleners folk, Agamemnon väljer sig.
+    Men jungfrur tre af samma qvinna föddes vi,
+    Khrysothemis, Iphigeneia och Elektra -- jag --
+    Och brodren vår, Orestes, af en brottslig mor,
+    Som, kastande omkring gemåln en gränslös duk,                25
+    Gaf honom döden; hvi? att säga icke höfs
+    En jungfru; folket dömma må i tvistig sak.
+    Hvi skulle jag ock Phoibos klaga an för väld?
+    Men han Orestes rådet gaf, att slå sin mor
+    Ihjäl, som ej hos alla honom ära gör.                        30
+    Nu drap han, och hörsammade alltså en gud.
+    Och jag var med om mordet, jag, för qvinlig del,
+    Och Pylades, som jemte oss utförde det;
+    Alltsedan tärd af gräslig sjukdom sjukas nu
+    Orestes, stackars man, och sträckt på bädd                   35
+    Han ligger, och af modrens blod i raseri
+    Han jagas fram; men Eumeniderna jag räds
+    Vid namn benämna; som med skräck hans sinne fyllt.
+    Ren detta är den sjette dagen, sen i eld
+    Hans moders kropp, den mördades, sin rening fick.            40
+    Och mellertid han ingen mat i munnen tog,
+    Ej gaf sig något enda bad; men svept uti
+    Sin mantel, hvar gång sjukdomsqvalen lindring ge,
+    Han gråter sansad, stundom ifrån bädden upp
+    Han springer snabb, likt fålen ifrån oket löst.              45
+    Och Argos har beslutit, att ej under tak,
+    Och ej vid brasan ta oss mot, ej tala till
+    Oss modermördare, om hvilka just idag
+    Argeiers stad högtidligen skall fälla dom,
+    Om man oss båda två till döds nu stena bör,                  50
+    Om med ett slipadt svärd man nalkas bör vår hals.
+    Dock hafve vi ett hopp ännu, att icke dö:
+    Ty Menelaos ifrån Troia kommit hem,
+    Och fyllande med flottan hamnen Nauplia,
+    Han ligger här vid stranden, redan längre tid                55
+    Från Troia jagad hafven kring; men Helena,
+    Den olycsälla, passande på nattens stund,
+    Att hon ej, sedd om dagen vandrande, af dem
+    Som söner mist vid Ilios, stenades ihjäl,
+    Han sände hit förut till oss. Derinne nu                     60
+    Sin syster gråter hon, och båsets olycksfall.
+    En vederqvickelse i smärtorna hon har likväl:
+    Åt jungfrun, lemnad qvar, då hon till Troia drog,
+    Hermione, som gaf åt moder min, att fostras upp,
+    Sjelf Menelaos, bringande från Sparta hit;                   65
+    Åt henne glädes hon, och glömmer sorgen bort.
+    Här blickar jag åt hvarje stig, ifall jag får
+    Se Menelaos komma; ty vi stå minsann
+    På svaga ben, såframt ej genom honom vi
+    Bli räddade: olycligt hus är hjelplös ting.                  70
+
+HELENA (trädande ur palatset).
+
+    O Klytaimnestras dotter du, och Agamemnons,
+    Elektra, du som jungfru gått ren länge nog,
+    Hur har du, arma qvinna, och din bror också,
+    Stackars Orestes, blifvit modermördare?
+    Af några ord till dig ej brottbesölas jag,                   75
+    Som uppå Phoibos välfver syndens hela skuld.
+    Likväl jag suckar öfver Klytaimneatras lott.
+    Min systers, hvilken, sedan jag till Ilios
+    For hädan, som jag for, uti vansinnig stund,
+    Jag icke sett; nu öfvergifven klagar jag.                    80
+
+ELEKTRA.
+
+    O Helena, hvad säga dig, som skådar sjelf
+    Uti olyckan kastad Agamemnons son?
+    Och sömnlös jag invid den usles döda kropp,
+    Ty död han är, och andas knapt det minsta mer,
+    Här sitter; dock hans ofärd ej begabbar jag.                 85
+    Lycksalig du, lycksalig äfven din gemål,
+    J, som till oss i nödens stunder hafven ländt!
+
+HELENA.
+
+    Hur länge låg han redan sträckt på denna bädd?
+
+ELEKTRA.
+
+    Ifrån den stund sin moders blod han rinna lät.
+
+HELENA.
+
+    Den uslingen! och modren, ack, hur hon förgicks!             90
+
+ELEKTRA.
+
+    Så är det mellertid, och han har kämpat ut.
+
+HELENA.
+
+    Säg, fagra mö, vid gudar, vill du lyda mig?
+
+ELEKTRA.
+
+    Invid min broders bädd jag nu upptagen är.
+
+HELENA
+
+    Vill till min systers grafvård du begifva dig?
+
+ELEKTRA.
+
+    Du menar till min moders? säg också, hvarför?                95
+
+HELENA.
+
+    Att gjuteoffer bära och från mig en lock.
+
+ELEKTRA.
+
+    Är ej din rättighet, att gå till vänners graf?
+
+HELENA.
+
+    För de Aigeiers folk att visa mig jag blygs.
+
+ELEKTRA.
+
+    Sent ångrar du, som hemmet nesligt öfvergaf.
+
+HELENA.
+
+    Rätt sagdt, men emot mig likväl ej vänligt sagdt!           100
+ELEKTRA.
+
+    Hvad blygsel har du då för Mykenaierna?
+
+HELENA.
+
+    Jag fädren räds till dem, som dött vid Ilios.
+
+ELEKTRA.
+
+    Rätt hårdt! I Argos går du genom allas mund.
+
+HELENA.
+
+    Gör mig tillviljes nu, och bort all fruktan lägg!
+
+ELEKTRA.
+
+    Ack nej! min moders graf jag kan omöjligt se.               105
+
+HELENA.
+
+    Att färnorna det bure dit, ju vore skam.
+
+ELEKTRA.
+
+    Hvi sänder du ej dottren din, Hermione?
+
+HELENA.
+
+    I stora sällskap höfves jungfrur ej att gå.
+
+ELEKTRA.
+
+    Hon åt den döda så umgällde modersvård.
+
+HELENA.
+
+    Rätt sade du, min flicka, och jag lyder dig.                110
+    Och sänder egen dotter dit; ty rätt du sagt,
+        (ropande inåt palatset)
+    Kom ut, mitt barn, Hermione, kom ut påstund!
+        (Hon utträder.)
+    Tag gjuteoffret här i händren, och min lock.
+    Och gående till Klytaimnestras graf dermed,
+    Lägg håningsmjölken der och korpsvart lock,                 115
+    Och stående på kumlets spets säg dessa ord:
+    "Dig gjuteoffret systren Helena hembär,
+    Hon som ej vården nalkas törs, och fruktar för
+    Argeiska folket." Och välvilligt hjertelag
+    Bed henne hysa emot mig och dig, och min gemål,             120
+    Och de osälla två, dem gud förgjort.
+    Men hvad mig egnar, såsom syster vårda om,
+    De skänker man åt döda ger, utlofva ock.
+    Gå nu, mitt barn, och skynda dig, och när du gjort
+    Ditt gjuteoffer, tänk på snarlig återkomst!                 125
+
+        (begge afträda.)
+
+HELEKA (ensam)
+
+    Ack, skönhet, hur du mycket ondt bland menskor gör,
+    Men räddar dem, som dig besitta dygdesamt!
+    J sågen ju, hur hon hårspetsen klippte af.
+    Att skona fägringen; hon samma toka är.
+    Må gudarne dig hata, som du störtat mig,                    130
+    Och honom här, och Hellas! ve mig, usla, ve!
+        (Khoren nalkas.)
+    Der komma desse, städs uti min bittra gråt
+    Deltagarinnor; blott de nu ur sömnen ej
+    Den lugne väckte, och ur ögat pressa tårn
+    För mig, enär jag åter brodren rasa ser.                    135
+    O J kärälskeliga mör, med sakta fot
+    Er närmen! bullren icke! ej här vare stoj!
+    Förty er vänskap är mig angenäm, men dock
+    Olycka vore, om min broder vaknade.
+    Stilla, stilla! mjuka steg med kängorna | Str. 1            140
+    Tagen, och stojen ej, buller ej vare här!
+    Viken härifrån fjerran,
+    Fjerran från bädden hans!
+
+KHOREN.
+
+    Se, jag hörsammar.
+
+ELEKTRA.
+
+    Ack, ack, som pipans andedrägt                              145
+    Ur fina röret, så vare, min vän, din röst!
+
+KHOREN.
+
+    Välan, så stilla som herdepipans
+    Min stämma är.
+
+ELEKTRA.
+
+                   Rätt så!
+    Träd fram, träd fram, kom stilla hit,
+    Kom stilla hit, och gif besked, hvarför                     150
+    J ändtligen komne ären.
+    Ty länge redan på sin bädd han ligger.
+
+KHOREN.
+
+    Huru är det? Låt oss veta, du goda! | Motstr. 1.
+
+ELEKTRA.
+
+    Hvad öde må jag nämna, och hvad olyckslott?
+    Han andas ännu,                                             155
+    Med korta suckar.
+
+KHOREN.
+
+    Ack, den olycklige!
+
+ELEKTRA.
+
+    Du mördar honom, om du rör hans ögonlock.
+    Som ljufvaste lisa i sömnen finna.
+
+KHOREN.
+
+    Den arme, genom gudasända nidingsverk! den usle,            160
+    genom hjertqval!
+
+ELEKTRA.
+
+    Ve, ve, förderf uttalte den förderflige,
+    Ultalte, då min moders mord,
+    Det afskyvärda,
+    Från Themis' trefot bjöd orakelguden.                       165
+
+KHOREN.
+
+    Ser du, i manteln han vrider sin kropp? | Str. 2.
+
+ELEKTRA.
+
+    Du honom med ditt skri, osäl-
+    la, har nu ur sömnen väckt.
+
+KHOREN.
+
+    Jag tror han sofver ännu.
+
+ELEKTRA.
+
+    Vill du ej från oss, från borgen                            170
+    Strax tillbaka, slutande ditt oljud,
+    Vända foten hän?
+
+KHOREN.
+
+    Han sofver.
+
+ELEKTRA.
+
+    Rätt du sade.
+
+KHOREN.
+
+    Heliga, heliga natt, Str. 3.
+    Sömngifvarinna åt mångplågiga menskor,                      175
+    Stig ur Erebos' djup; hasta, o hasta, bevingad
+    Till Agamemnons palats;
+    Ty af bekymmer, och olycksfall
+    Vi förödas, vi ödas ut.
+
+ELEKTRA.
+
+    J stojen än.                                                180
+
+KHOREN.
+
+                  O nej!
+
+ELEKTRA.
+
+                         Tyst, tyst
+    Om du från bedden träder, slutande
+    Din muns tumult, du goda, honom skänker
+    den stilla glädjen utaf sömnens ro.
+
+KHOREN.
+
+    Säg oss, hvad slutet på allt detta blir? | Motstr. 2.
+
+ELEKTRA.
+
+    Döden blir det, och hvad eljes? Ingen                       185
+    Matlust han numera har.
+
+KHOREN.
+
+    Hans slut är ögonskenligt.
+
+ELEKTRA.
+
+    Oss har Phoibos offrat upp.
+    Fordrande ett styggt, förbjudet blod
+    Af mor, som drap vår far.                                   190
+
+KHOREN.
+
+    Rätt så; men rysligt dock!
+
+ELEKTRA.
+
+    Dödad är, dödad är du | Motstr. 3.
+    Huldaste moder, som ödde
+    Fader min, och oss båda, barnen dina.
+    Ja, vi förhärjats, förhärjats, som skuggor,                 195
+    Ty bland döda du är, och mitt lifs
+    Ädlare del bortflyktar
+    Under suckar och hjerteqval,
+    Under nattliga tårar. Men oförmäld,
+    Ve, och barnlös, ack, min lefnads dar                       200
+    Städs olycklig jag släpar fram.
+
+KHOREN.
+
+    Stig närmare, Elektra, jungfu min, och se.
+    Att ej din broder der må dö, förrän du vet.
+    Ty ej hans alltför långa ro behagar mig.
+
+ORESTES (vaknande.)
+
+    Ack, sömnens vederqvickelse, min krämpas bot,               205
+    Hur ljufvelig du nalkats mig i rätter stund?
+    Ack, höga Glömska af olyckorna, hur vis.
+    Hur önskansvärd gudinna för beängslade!
+    Men hvarifrån är jag väl kommen hit, och hur?
+    Ty sen jag vettet miste, fordom ej jag minns.                210
+
+ELEKTRA.
+
+    Kärälsklige, hur har din sömn ej fägnat mig!
+    Säg, vill du att jag fattar dig och lyfter upp?
+
+ORESTES.
+
+    Tag, alltför gerna tag, och från min stackars mund.
+    Från mina ögon torka tjocka svettens drägg.
+
+ELEKTRA.
+
+    Se, ljufligt är det värfvet, och jag vägrar ej,             215
+    Att om min broder taga vård med systershand.
+
+ORESTES.
+
+    Med sida sida understöd, och tofvigt hår
+    Stryk undan, ty med ögonen jag föga ser.
+
+ELEKTRA.
+
+    O stackars hufvud med de skrumpna lockarna,
+    Hur har du ej förvildats af vårdslösad ens!                 220
+
+ORESTES.
+
+    Mig luta åter mot min bädd! När raserit
+    Gått öfver, känner jag mig svag och orkelös.
+
+ELEKTRA.
+
+    _Minnsann för sjuklingen är kär dess hvilobädd,
+    En rätt olustig ting, men nödig mellertid_.
+
+ORESTES.
+
+    Res mig igen, och låt mig sträcka kroppen ut.               225
+
+KHOREN.
+
+    _En kinker är den sjuke, af förlägenhet_.
+
+ELEKTRA.
+
+    Säg, om du föttren emot marken foga vill,
+    Och ändtlig ta ett steg? Omvexlingen är ljuf.
+
+ORESTES.
+
+    Rätt gerna; -- ty det liknar sig till helsa dock,
+    _Och skenet är rätt bra, fast långt från sanningen_.        230
+
+ELEKTRA.
+
+    Hör hvad jag nu dig, bäste broder, säga vill,
+    Sålänge dig Erinnyerne lemna sans.
+
+ORESTES.
+
+    Hvad nytt alliså? Är det till godo, tack derför.
+    Är det till ondo, har jag ren olyckor nog.
+
+ELEKTRA.
+
+    Vet Menelaos kommen är, din faders bror;                    235
+    I Nauplia han sina skepp för ankar laggt.
+
+ORESTES.
+
+    Hvad nu? Kom tröst i mina och i dina qval,
+    Vår anförvandt, och hos vår far i mycken skuld?
+
+ELEKTRA.
+
+    Han kommen är, -- du lita kan på mina ord --
+    Och bringar Helena från Troias murar med.                   240
+
+ORESTES.
+
+    Om han allena räddats, vore han mer säll.
+    Men bringar han sin maka; med stor skam han kom.
+
+ELEKTRA.
+
+    För klick berömligt födde Tyndareus ett par
+    Af döttrar, och vanryktadt uti Hellas' bygd.
+
+ORESTES.
+
+    Var du de styggor olik; ty det unnes dig.                   245
+    Och prata icke endaat så, men tänk jemväl!
+        (börjar rasa.)
+
+ELEKTRA.
+
+    Ve mig, o broder, hur ditt öga välfver sig!
+    Och knapt vid sinnen, blef du genast rasande.
+
+ORESTES.
+
+    O moder, jaga ej -- jag ber dig -- mot mig så
+    De blodbesölade, ormlika qvinnorna!                         250
+    Ty sjelfve nog, ack, sjelfve de kringlöpa mig.
+
+ELEKTRA.
+
+    Min stackars broder, håll dig stilla i din badd;
+    Ty intet ser du af hvad du dig skåda tror.
+
+ORESTES.
+
+    O Pboibos, de hundögde ärna dräpa mig,
+    Vildblickige prestinnor i tartarens djup.                   255
+
+ELEKTRA.
+
+    Jag dig ej släpper. Flätande kring dig min arm,
+    Jag hindrar dig, att hoppa dina olyckshopp.
+
+ORESTES.
+
+    Mig släpp! du själf, ibiand Erinnyerna en,
+    Mig kramar, för att i tartaren slunga ned.
+
+ELEKTRA.
+
+    O, ve mig arma! hvarifrån skall hjelp jag få?               260
+    Ty begge ha vi samkat på oss gudars harm.
+
+ORESTES.
+
+    Hornbågen gif mig, skänken af oraklets gud,
+    Hvarmed han mig Erinnyerna jaga bjöd,
+    Ifall med raseri de skulle skrämma mig.
+
+ELEKTRA.
+
+    Kan väl en gud bli sårad utaf menskohand?                   265
+
+ORESTES.
+
+    Såframt han ej från mina ögon drager hän.
+        (till Erinnyerna)
+    Ha, hören J, och sen J ej de vingade.
+    Från säker båges sträng afskjutna pilarna?
+    Ah, ah, hvi dröjen J? åt ethern svingen upp.
+    På vingarna; anklagen Phoibos' gudasvar!                    270
+        (något sansad.)
+    O ve, hvi ängslas jag, och höjer suck på suck?
+    Hvarthän, hvarthän ha från vår bädd vi irrat nu?
+    Ty efter dyningen jag lugn nu åter ser.
+    Hvi, syster, gråter du, och höljer dig i dok?
+    Jag blygs, att med dig dela mina hjerteqval,                275
+    Och genom mina krämpor gifva jungfrun sorg.
+    För mina nidingsvärf ej du förtvina må;
+    Åt dem ditt bifall skänkte du; men jag utgjöt,
+    Vår moders blod; och Loxias anklagar jag,
+    Som, manande till aldrarysligaste brott,                    280
+    Med orden mig förtjuste, men i saken ej.
+    Jag menar, att om jag min far, lifslefvande
+    Tillfrågat, om jag borde dräpa moder min?
+    Med trägen bön han händren sträckt mot sonens skägg,
+    Att icke stöta svärdet sitt i modersbarm.                   285
+    Ifall ej han tillbakavunne lifvet så,
+    Men jag, osälle, blefve mål för dessa qval.
+    Derför afslöja dig, min bästa syster, nu,
+    Och afstå ifrån gråt, änskönt olycklige
+    Vi äre; och hvar gång du mig misströsta ser,                290
+    Så hejda du mitt hårda sinnes nederlag,
+    Och trösta mig; men när du åter suckar sjelf,
+    Då tillhör oss, att träda fram, och råda dig.
+    Ty sådant bistånd vännen skönt åt vännen ger.
+    Nu, stackars syster, gå du i palatset in,                   295
+    Sträck ut dig, gif åt sömnen sömnlöst ögonlock,
+    Och tag dig mat, och dig också i bad begif.
+    Ty om du lemnar mig, om af enträgenhet
+    Ådrar dig sjukdom, är med oss förbi. Du är
+    Mitt enda stöd; och -- som du ser, ej annat finns.          300
+
+ELEKTRA.
+
+    O nej, med dig jag ville gernast både dö,
+    Och lefva. Så är saken; om du doge bort,
+    Hvad gör jag? huru, ensam qvinna, räddas jag,
+    Vännlös, brorlös och faderlös? Men önskar du,
+    Må detta ske! ändock mot bädden luta dig!                   305
+    Och hvad dig utur sängen drefve, skrämde upp,
+    Ej akta särdeles, men dröj hos dynorna!
+    Ty fast du ej är sjuk, men endast sjukas tycks,
+    Bekymmer väckes derutaf och rådlöshet.
+        (afträder.)
+
+KHOREN.
+
+    O ve, ve! | Stroph,                                         310
+    Snabbfotade och bevingade,
+    Höga gudinnor, er,
+    Som fröjdtomt säte besitten bland
+    Tårar och jemmer,
+    Svarthyige Eumenider, som kretsen                           315
+    Vida ethern igenom, krävande
+    Hämd på blodskuld, hämd på hvart modermord,
+    Eder anropar jag, eder anropar jag:
+    Nu Agamemnons son tillstädjen för-
+    gäta sitt raseri, det vilda.                                320
+    Stormande! Hvad olycksqval
+    Dig, usle, drabbade, till undergång.
+    Sen du oraklet tog emot, som Phoibos
+    Ifrån sin trefot gaf i gudalunden,
+    Der jordens medelpunkt sägs gömd.                           325
+    O Zeus, Zeus | Motstr.
+    Barmhertighet, hvar? O hvad blodig
+    Strid, som nu förestår
+    Dig, usling, gripande dig an; och tårar
+    Mänga med tårar                                             330
+    Skall bland Erinnyerna någon, som hitbär
+    Din moders blod, och dig vansinnig gör!
+    Derför veklagar jag, derför veklagar jag.
+    Den stora lyckan ej bland menskor trifves.
+    Se, seglet på den snabba båt.                               335
+    Hur det af stormen-sönderrifves:
+    Så lyckan öds, tills sista spillren drifves
+    Af qvalens störtvåg, under jemrens gråt.
+    Ty hvilken annan ätt tillförene,
+    Än den, som genom gudsgiftermål                             340
+    Från Tautalos härstammar, har jag väl vörda bordt?
+        (Menelaos kommer.)
+    Se, der har vi kongen, der kommer
+    Menelaos, vår drott, af sin praktskrud
+    Genast igenkänd,
+    Att han af Tantaliderna en är.                              345
+    O du, som med tusenskeppiga flottan drog
+    Till Asiens kust,
+    Hell dig, du lycka och framgång haft,
+    Och lyktat med gudarnes hjelp ditt värf!
+
+MENELAOS.
+
+    O kongaborg, dels jag med fröjd dig återser,                350
+    Från Troia länd, och dels jag suckar vid din syn,
+    Ty rundtomkring af hiskliga olyckor snärjdt
+    Jag aldrig nånsin mera sett ett annat hus.
+    Ty Agamemnons öden ren jag veta fick,
+    Och huru han af egen maka mördades.                         355
+    Då jag tog hamn vid Malea; ur vågorna
+    Sjömännens siare förkunnade det mig,
+    Lögnlöse guden, spåarn Glaukos, Nereus' son,
+    Som ögonskenligt steg ur sjön, och ordade:
+    "O Menelaos, mördad ligger broder din,                      360
+    Besviken af sin egen makas sista bad!"
+    Det tårar kostade mig sjelf och mina män,
+    Rätt många. När jag sen beträdde Nauplias jord,
+    Och ren min maka hade hitåt kosan vändt,
+    När jag Orestes redan, Agamemnons son,                      365
+    Mig trodde sluta få i famn, och modren hans
+    I frid och fröjd, af fiskarfolket hörde jag
+    Om Tyndareiska dottrens gudalösa mord.
+    Och nu, hvar är han? sägen mig, J unga mör,
+    Hvar Agamemnons son, som detta brott begick.                370
+    Han var ett barn i Klytaimnestras armar än,
+    Då denna borg jag lemnande, till Troia drog,
+    Att jag ej honom, om jag såge, kände nu.
+
+ORESTES.
+
+    Jag är Orestes, Menelaos, som du sökt.
+    Ock gerna jag för dig mitt brott berätta vill.             375
+    Först dina knän jag vidrör, hjelpbegärande,
+    Och höjer bönen, utaf ingen qvist bestyrkt:
+    Ack, rädda mig! I lycklig stund du kommen är.
+
+MENELAOS.
+
+    Hvad ser jag, gudar? hvem bland skuggor skådar jag?
+
+ORESTES.
+
+    Rätt sagdt! för qval jag lefver ej, men dager ser.          380
+
+MENELAOS.
+
+    O, hur din lock är vild och tofvig, arme man!
+
+ORESTES.
+
+    Min anblick ej, men mina brott besöla mig.
+
+MENELAOS.
+
+    Utur förtorkadt öga hiskligt stirrar du.
+
+ORESTES.
+
+    Min kropp är hän, men namnet återstår likväl.
+
+MENELAOS.
+
+    Hur oförmodlig synes mig din missgestalt!                   385
+
+ORESTES.
+
+    Min olycksälla moders baneman är jag.
+
+MENELAOS.
+
+    Jag hör; men uppskjut sådant prat en liten stund.
+
+ORESTES.
+
+    Må ske! men gud mot mig är rik på lidanden.
+
+MENELAOS.
+
+    Hvad går åt dig? hvad krämpa bringar dig förderf?
+
+ORESTES.
+
+    Medvetandet, att jag förskräckligt handlat har.             390
+
+MENELAOS.
+
+    Hvad nu? -- _Vist tydligt är, men ej otydligt ord_.
+
+ORESTES.
+
+    Förnämligast den ångest, som föröder mig.
+
+MENELAOS.
+
+    Svår är guds skickelse, men botelig ändock.
+
+ORESTES.
+
+    Och raseriet är min mors blodshämnare.
+
+MENELAOS.
+
+    När började du rasa så? hvad dag var det?                   395
+
+ORESTES.
+
+    Då jag i kummel bäddade min stackars mor.
+
+MENELAOS.
+
+    Hemkommen, eller sittande vid bålet qvar?
+
+ORESTES.
+
+    På vakt om natten; att ej benen stules bort.
+
+MENELAOS.
+
+    Var någon annan med, som understödde dig?
+
+ORESTES.
+
+    Jo, Pylades, som stod mig bi vid modermord.                 400
+
+MENELAOS.
+
+    Af hvilka skräckgestalter qväljes du såder?
+
+ORESTES.
+
+    Tre flickor, nattligt hemska, tycker jag mig se.
+
+MENELAOS.
+
+    Din mening vet jag, men ej vill jag nämna dem.
+
+ORESTES.
+
+    De heliga! din bildning hindrar dig från slikt.
+
+MENELAOS.
+
+    For modermordets skull de så anfäkta dig?                   405
+
+ORESTES.
+
+    O ve de qval, som följa mig, elendige!
+
+MENELAOS.
+
+    _Ej gräsligt är, att de få straff, som gräsligt gjort_.
+
+ORESTES.
+
+    Men hela skulden kan jag skjuta bort från mig.
+
+MENELAOS.
+
+    Uppå din faders död? -- det vore obetänkt.
+
+ORESTES.
+
+    Mig Phoibos sjelf befallt, att modren slå ihjäl.            410
+
+MENELAOS.
+
+    Han är alltså okunnig, han, om dygd och rätt.
+
+ORESTES.
+
+    Vi lyde gudarna, ehvad, ock äro gudarne.
+
+MENELAOS.
+
+    Orakelguden dock ej lindrar dina qval?
+
+ORESTES.
+
+    _Han ärnar_. Sådan är ju gudarnes natur.
+
+MENELAOS.
+
+    Hur länge är, sen moder din ej andades?                     415
+
+ORESTES.
+
+    Den sjette dagen går; dess bål är varmt ännu.
+
+MENELAOS.
+
+    Hur snart gudinnorne utkräfva modrens blod!
+
+ORESTES.
+
+    Vis man jag ej, men verklig vän till vänner är.
+
+MENELAOS.
+
+    Hvad båtar dig, att du din fader hämnades?
+
+ORESTES.
+
+    Än ej; men dröjsmål kallar jag försumlighet.                420
+
+MENELAOS.
+
+    Hur är i sta'n din ställning, sen du detta gjort?
+
+ORESTES.
+
+    Vi hatas så, att ingen mer oss talar till.
+
+MENELAOS.
+
+    Har du ej, enligt lag, tvått bloden från din hand?
+
+ORESTES.
+
+    Jag stänges ut, ehvart jag går, från alla hus.
+
+MENELAOS.
+
+    Ho är bland medborgsmän, som jagar dig ur land?             425
+
+ORESTES.
+
+    Olax, att gälda gammalt agg mot fader min.
+
+MENELAOS.
+
+    Jag allt forstår: Palamedes' död hemsöker dig.
+
+ORESTES.
+
+    Deri har jag ej del; utaf de tre jag öds.
+
+MENELAOS.
+
+    Hvad mer? utaf Aigisthos' vänner någon visst?
+
+ORESTES.
+
+    De mig ansätta, hvilka staten lyder nu.                     430
+
+MENELAOS.
+
+    Än Agamemnons spira, lemnar staten den åt dig?
+
+ORESTES.
+
+    De som ej oss tillstädja ens, att lefva mer.
+
+MENELAOS.
+
+    Hvad ärna de, som du mig säkert säga kan?
+
+ORESTES.
+
+    På denna dag skall domen fällas öfver oss.
+
+MENELAOS.
+
+    Att gå i landsflykt? dödas eller icke dö?                   435
+
+ORESTES.
+
+    Att blifva stenade af medborgsmän ihjäl.
+
+MENELAOS.
+
+    Hvi flyr du ej, och hastar bortom landets gräns?
+
+ORESTES.
+
+    Vi äre stängde rundtomkring af väpnadt folk.
+
+MENELAOS.
+
+    Enskildt af egna fiender? af Argisk här?
+
+ORESTES.
+
+    Af alla borgrarne, att jag må dö: kort sagdt!               440
+
+MENELAOS.
+
+    Eländige, som bragtes till det yttersta!
+
+ORESTES.
+
+    Till dig mitt hopp om räddning utur nöden står.
+    Men då du lycklig kommit till olyckliga,
+    Så gif åt dina vänner af din lycka med,
+    Och framgången för egen räkning ej behåll!                  445
+    Men tag också i vedermödorna din del,
+    Och fadrens ynnest gälda emot dem, du bör.
+    _Ty namnet blott, men saken ej de vänner ha,
+    Som ej uti olyckorna sin anpart ha_.
+
+        (Tyndareus synes komma.)
+
+KHOREN.
+
+    Der stapplar uppå ålderdomlig fot, minsann,                 450
+    Svartmantlad Spartiaten Tyndareus hitåt,
+    Med håret klippt på sorgeart, för dottrens skull.
+
+ORESTES.
+
+    Jag är förlorad, Menelaos! -- Tyndareus
+    Till oss sig närmar, han hvars ögon aldramest
+    Jag blygs att möta, sedan detta blivit gjordt.              455
+    Ty han mig fostrade som litet barn, och mig
+    Med många kyssar höljde; Agamemnons son
+    Kringbärande på armarna, och Leda med.
+    Mig ärande likt sjelfva Dioskurerna.
+    Och dessa två jag, arma hjerta, arma själ,                  460
+    Ej väl har vedergällt. Hvar finna mörker nog.
+    Att gömma anletet? Hvar moln, att framfor mig
+    Jag ställa må, och undgå gubbens skarpa blick?
+
+TYNDAREUS.
+
+    Hvar kunde jag väl råka få min dotters man,
+    Menelaos? Ty på Klytaimnestras graf då jag                  465
+    Mitt offer gjöt; jag hörda att till Nauplia
+    Han med sin maka kommit, räddad ändtligen,
+    Ledsagen mig; ty vid hans högra sida jag
+    Vill stå och helsa, skådande sentida vän.
+
+MENELAOS.
+
+    Hell, gamle, dig, hvars äkta läger delte Zeus!              470
+
+TYNDAREUS.
+
+    Hell äfven, Menelaos, dig, min anförvandt!
+    Ve! Bittert är, att menskan ej sin framtid vet!
+    Se ormen modermördarn, framför borgen der.
+    Hur kranka blixtar ljunga i hans blick, min pest!
+    Menelaos, talar du dock med den smittade?                   475
+
+MENELAOS.
+
+    Hvi så? Han är ju ättling af mig älsklig far.
+
+TYNDAREUS.
+
+    Just han, som född af sådan far en sådan vardt?
+
+MENELAOS.
+
+    Han föddes dock; och bör i nöden vårdad bli.
+
+TYNDAREUS.
+
+    Barbar du blivit, bland barbarer länge dröjd.
+
+MENELAOS.
+
+    Hellenisk är den sed, att ha om slägten vård.               480
+
+TYNDAREUS.
+
+    Den ock, att öfver lagarna ej vilja stå.
+
+MENELAOS.
+
+    Hvad nödtvång är, är slafveri bland vise män.
+
+TYNDAREUS.
+
+    Håll dig vid detta, du; jag skall ej hålla mig.
+
+MENELAOS.
+
+    Ja, vreden är med dig, och ovis ålderdom.
+
+TYNDAREUS.
+
+    Hvad strid om vishet kunde för hans skull oppstå?           485
+    Om alle inse klart, hvad rätt är, och hvad ej,
+    Ho finns bland dödliga mer oklok då, än han?
+    Han som om rättvisan ej tog den minsta vård,
+    Och till Helleners samfundslag ej vände sig.
+    Ty sedan Agamemnon andats ut sitt lif,                      490
+    I hufvudet utaf min dotter slagen, -- ack,
+    Ett skändligt brott, som jag ej nånsin gilla skall!
+    För blodskuld henne först han hade stämma bordt,
+    Och kräfva laga straff, och jaga modren sen
+    Ur huset. Fromt i nöden då han sig betett,                  495
+    Och sig vid lagen hållit fast, rättskaffens son.
+    Nu med sin moder han i samma ofärd gick.
+    Ty pröfvande med skäl, att hon en brottsling var,
+    Sjelf mera brottslig blef han, som sin moder drap.
+    Dig, Menelaos, om en sak jag spörja vill:                   500
+    Ifall en viss af äkta makan banen fick,
+    Och dennes son sin moder sloge ock ihjäl,
+    Och mordet dennes ättling vidare med mord
+    Umgällde, säg, hvar toge väl då brotten slut?
+    Rätt var af fordne fäder denna lag bestämd:                 505
+    De ej tillstadde någon träda inför sig,
+    Ej heller sig till möte, som utgjutit blod;
+    Men med förvisning straffade, och dräpte ej.
+    Ty eljes skulle mord dock städs vidlåda en,
+    Som händerna nedsölat aldrasist med brott.                  510
+    Gudlösa qvinnor allesamman hatar jag,
+    Och främst min dotter, som sin egen make drap;
+    Ock Helena, din hustru aldrig rosar jag,
+    Ej talar till ens; gillar icke dig, som drog,
+    För illaartad qvinnas skull till Troias fält.               515
+    Allt hvad jag kan, jsg kämpa vill för lagens helgd,
+    Och slut på detta vilddjurslif och blodbestyr
+    Jag göra skall -- som städs föröder land och stad,
+        (till Orestes.)
+    Förty hvad hade du för hjerta, usling, då
+    När barmen blottade för dig, bönfallande                    520
+    Din egen mor? Jag sjelfva brottet icke sett,
+    Och gubbens öga smälter dock i tårar bort.
+    En sak iallo stämmer in med mina ord:
+    Hos gudar hatad, du för modrrmord får näpst,
+    Af faser jagad kring och raseri, Behöfs                     525
+    Väl höra vittnen, då jag saken skåda kan?
+        (till Menelaos.)
+    Att du det vete, Menelaos, gudarna
+    Emot ej handla, honom ej att hjelpa sök!
+    Men tillåt, att han stenas må af medborgsmän
+    Och Spartas jord beträd ej eljes med din fot.               530
+    Min dotter visserligen lagligt dödad vardt,
+    Men orätt var det, att hon dog för dennes hand.
+    Jag i allt öfrigt skapades lycksalig man,
+    Men ej hvad rörer döttrarna: -- deri osält.
+
+KHOREN.
+
+    _Hur afundsvärd, eho i barnen lycklig var,                   535
+    Och inga särdeles bekymmer samkade!_
+
+ORESTES.
+
+    Ack, gamle man, jag rädes yttra ord för dig
+    I sak, der jag dig kränka måste in i själn.
+    Jag gudlös är, för det jag mördade min mor,
+    Gudhörsam, under annat namn, för fadrent hämd.              540
+    Tag endast bort din ålderdom, som mina ord
+    Tillhinders är, och ur min talan skrämmer mig,
+    Då är på väg jag genast. Nu jag räds ditt hår.
+    Hvad borde jag väl göra? Sätt nu tvä mot två!
+    Min far mig aflade; din dotter födde mig;                   545
+    Hon åkren var, som tog af annan fröet mot.
+    Och utan far lär väl ej nånsin finnas barn.
+    Jag mente derför, att jag lifvets upphofsman
+    Mer värna bordt, än henne, som mig födan gaf.
+    Alltså -- din dotter; -- ty min mor jag säga blygs,         550
+    Med egen bröllopsvisa, men ej välbetänkt,
+    Beträdde ann mans bädd; mig sjelf det gälla skall,
+    Då jag om henne talar slemt; -- jag måste dock.
+    Aigisthos var den dolde maken i vårt hus,
+    Och honom drap jag, offrande min mor jemväl.                555
+    Föröfvande visst brott, men hämnande min far.
+    Hvad angår hotelsen, att man bör stena mig,
+    Så hör mig, hur jag hela Hellas gör en tjenst!
+    Ty komme hustrurna till sådan dristighet,
+    Att dräpa sina män, och taga tillflygt sen                  560
+    Till barnen, tiggande om nåd med blottad barm,
+    Då såge de för intet an, att maken slå,
+    Af förevändning, hurudan som helst. Har jag nu --
+    Som du tror -- gjort brott, jag ock gjort slut på slikt.
+    En hatad mor medrätta jag afdagatog.                        565
+    Som egen make, stadd på härfärd hemifrån.
+    Anförare för samteliga Hellas' folk,
+    Förrådde, och ej okränkt höll hans äkta säng.
+    Och när hon brottet insåg, hon sig dock ej straff
+    Pålade, utan för att slippa ansvarsfri,                     570
+    Misshandlade min hulda far, och slog ihjäl.
+    Vid gudarna, dock ej jag borde gudar nämnt
+    I dom om mordsak -- hade jag min moders brott
+    Med tystnad gillat, o hvad skalle far min gjort?
+    Monn ej mig, hatfull, till Erinnyerna sändt?                575
+    Säg, eller stå väl skyddsgudinnor modren bi.
+    Men bistå ej den mera förorättade?
+    Du alltså, gamle man, en brottslig dotters far,
+    Du gjort min ofärd; ty af hennes dristighet
+    Min far beröfvad, modermördare jag vardt.                   580
+    Ser du? Odysseus' maka ej Telemachos
+    Ihjälslog, ty hon icke tog sig man på man,
+    Och äkta sängen i palatset okränkt blef.
+    Ser du? Apollon, som i jordens medelpunkt
+    Har säte, och åt menskor ger orakelsvar,                    585
+    Som vi i allt hörsamme, hvad han säga må.
+    Jag, honom ock hörsammande, min moder drap.
+    Thy ansen honom gudlös nu, och slån ihjäl.
+    Han syndat har, ej jag; hvad visste jag?
+    Monn ej den gud, jag skyller på, nog mäktig är,             590
+    Att brottet lösa? Hvart vill jag väl flykten ta,
+    Om han, som bjöd det, ej från döden räddar mig?
+    Säg derför ej, att icke detta rätt är gjordt.
+    Säg, att för oss, som gjorde, det ej lycksamt var.
+    _De hvilkas äktenskap på jorden väl består,                 595
+    Ha -- sälla dar; för dem, som dock påtok det går
+    Båd' inom hus och utom allt slem ände får._
+
+KHOREN.
+
+    Städs qvinnorna tillhinders voro skapade
+    I sina männers öden, till ofärd blott.
+
+TYNDAREUS.
+
+    Då du är trotsig, och ej viker för mitt tal,                600
+    Och svarar uppå sådant sätt, som sårar mig,
+    Dessmer du retar mig, att yrka på din död,
+    Som till behagligt tidsfördrif jag göra vill,
+    Då jag hitkommit, för att smycka dottrens graf.
+    Jag nu till de Argeiers folkförsamling går,                 605
+    Och villig, ej ovillig staten eggar jag,
+    Att stena dig, och stena systren din ihjäl.
+    Hon mellertid långt mer än du sin död förtjent,
+    Hon som dig retat mot er mor, i öronen
+    Dig sändande fiendtelig uppmaning städs,                    610
+    Berättande hvad hon om Agamemnon drömmt,
+    Samt hurusom Aigisthos' brott förhatligt var
+    För underjordens gudar, -- äfven här olideligt! --
+    Tilldess hon tände huset an med eldlös eld.
+        (till Menelaos.)
+    O Menelaos, dig jag säger, och så gör också                 615
+    Om dig min fiendskap, min slägtskap något är,
+    Så sätt dig ej emot hans död, mot gudarna,
+    Men tillåt, att han stenas må af medborgsmän;
+    I annat fall beträd ej nånsin Spartas jord!
+    Sen du allt detta hört, gudlösa vänner ej                   620
+    Utkora, stötande rättsinnta från dig bort,
+        (till sina män,)
+    Nu bringen oss från denna borg, J tjenare!
+
+ORESTES (till Tyndareus.)
+
+    Gå du, att utan afbrott detta tal från oss
+    Till denne gånge, för din ålderdom forskont!
+        (till Menelaos.)
+    Hvart, Menelaos, styr du kosan i begrundalag nu,            625
+    Dubbelt bekymmers dubbla vägar vandrande?
+
+MENELAOS.
+
+    Derom ej bry dig! Grubblande uppå en sak,
+    Villrådig är jag, hvart jag borde vända mig.
+
+ORESTES.
+
+    Ställ ej i verket nu din tanke, utan hör
+    Först mina ord, och sedan fatta ditt beslut.                630
+
+MENELAOS.
+
+    Så tala! Du har rätt; ty _tystnad bättre är
+    I vissa fall, än tal, i vissa -- tal än tystnad._
+
+ORESTES.
+
+    Så må jag tala nu! men alltid långa tal
+    Framför de korta gälla, och begripas mer.
+    Gif mig, o Menelaos, intet af ditt gods,                    635
+    Men återgif mig hvad utaf min far du fått.
+    Ej skatter menar jag; -- de skatter, om mitt lif
+    Du räddar, äro mig bland alla älskligast.
+    Gör jag väl orätt? I min nöd jag måste få
+    Hvad orätt är af dig. -- Agamemnon ock, min far,            640
+    Med orätt Hellas samlande, mot Troia drog,
+    Sjelf utan minsta brott, men för att din gemåls
+    Oratta handling bota, och förseelse.
+    Oss detta ena för det ena ge du bör.
+    Min far blottställde -- så bör göra vän för vän --          645
+    Sitt lif för dig, och kämpade inunder sköld,
+    Att du tillbaka måtte få din äkta hälft.
+    Umgäll mig alltså detta, som du der mottog,
+    Och möda dig för vår skull blott en enda dag
+    Och stå som räddare, -- ej tio långa år;                    650
+    Väl Aulis tog som offer hulda syster min;
+    Jag efterskänker det; ej dräp Hermione!
+    Ty, då jag är olycklig, såsom nu, bör du
+    Ha öfvervigten, och jag få forlåtelsen.
+    Mitt lif förära åt min olycksfulla far,                     655
+    Och systrens lif, som jungfru varit länge nog.
+    Ty, dödad, värnlöst lemnar jag min faders hus.
+    Du svarar mig: "omöjligt" -- Så likväl i nöd
+    Den ene vännen bör den andre skänka hjelp.
+    Men hvad behöfs väl vänner då, när allt går väl?            660
+    Ty guden sjelf, som hjelpa vill, är ensam nog.
+    Att du din maka älskar, tror allt Hellas' folk,
+    (Ej för att smickra, och bedraga talar jag,)
+    Vid henne jag anropar dig, jag, olycksman.
+    Hvart är jag kommen? är det jag som plågas blott?           665
+    Det är för allt vårt hus, som jag anropar dig.
+    O du, min egen faders egen bror, var viss,
+    Att under jord den döde detta hör, och att
+    Hvad jag har sagt, hans vålnad hviskar öfver
+    Bland tårar detta, jemmer och bedröfvelse                   670
+    Jag ordat har, och beder med enträgenhet
+    Om räddning nu, som alle söka, ej blott jag.
+
+KHOREN.
+
+    Ock jag änskönt jag qvinna är, anropar dig,
+    Att bistå de osälla; ty du gitter det.
+
+MENELAOS.
+
+    Orestes, ack, jag för dig allsköns aktning bär,             675
+    Och vill i dina olycköden taga del.
+    Men kraft dertill jag önskar mig från gudarna.
+    Ty så man sine blodsförvandters smärtor bör
+    Gemensamt bära, om en gud förlänar kraft,
+    Så, att man stupar, eller nedgör fienden.                   680
+    Ty med en här, på bundsförvandter blottad, hit
+    Jag kommit har, af tusende bekymmer trängd,
+    Med sparde vänners obetydeliga kraft.
+    I öppen fejd alltså vi torde Argos ej,
+    Pelargerlandet, kufva; om med blida ord                     685
+    Vi kunne det: -- vårt hopp deri vi hafva satt
+    _Hur kan det stora någon med det lilla ta?_
+    Ty då när pöbeln i sin vrede rasar fram,
+    Den lika svår att dämpa är, som häftig eld.
+    Men om man för den fikne fogligt efterger,                  690
+    Och viker undan, passande på lemplig tid,
+    Den sansar sig kanske. -- Och när den fällt sitt mod,
+    Man kan den lätt handtera, efter egen skön.
+    _Hos pöbeln miskund finnes, men der finns ock trots,
+    Och den som passar på sin tid, är ärans man_.               695
+    Nu går jag, frestande att stat och Tyndareus
+    Med dig försona, att de öfve mildt sin makt.
+    _Ty skeppet kränger, när för mycken vind det tar,
+    Men reser sig igen, när seglen in det drar_.
+    Så gud ock hatar alltför mycket öfvermod,                   700
+    Och stadsbor hata; derfor -- allvar är mitt tal --
+    Med vishet jag dig rädda bör, och ej med trots.
+    Med härsmakt ingalunda -- som du tror kanske --
+    Jag kan dig rädda. Lätt ej, med ett enda spjut,
+    Man nedergör den ofärd, som omgifver dig.                   705
+    Ej nånsin förr till Argos' jord, i ödmjukhet
+    Anlände vi; likväl det oss nödvändigt är,
+    Som kloke män, att vara ödets slafvar nu.
+        (afträda.)
+
+ORESTES.
+
+    O endast för en qvinnas skull härförare,
+    Men eljes intet, fegaste till vänners hämd,                 710
+    Du vänder dig från mig, och går? Agamemnons sak
+    Är ute. Fader, i din olycksstund förrådd!
+    Ve mig; jemväl förrådd! Och mera finns ej hopp,
+    Ej här, ej der, att rädda lifvet ur Argeiers hand.
+    Ty denne man min räddnings enda tillflygt var. -- -- --     715
+        (Pyladet nalkas.)
+    Dock der jag ser den käraste bland dödliga,
+    Min Pylades, i fyrsprång hit från Phokis kommande,
+    En ljuflig anblick: trogen man i nödens stund
+    Du hellre ser, än lugnet ser sjöfaranden.
+
+PYLADES.
+
+    Fortare än hvad jag borde, genom staden kommer jag,         720
+    Hörande om folkets möte, som jag klarligt sjelf har sett,
+    Ställdt mot dig, och mot din syster, som de ärna dräpa strax.
+    Hvad är det? hur går? hur mår du, kärste bland jemnåriga.
+    Och bland, vänner, och bland fränder? -- ty allt detta är du mig.
+
+ORESTES.
+
+    Allt är ute: att i korthet mina qval jag röja må.           725
+
+PYLADES.
+
+    Oss tillika du föröder: vänner dela ljuft och ledt.
+
+ORESTES.
+
+    Menelaos nedrigt handlar emot mig och syster min.
+
+PYLADES.
+
+    Nedrig gvinnas man med rätta blifver också nedrig sjelf.
+
+ORESTES.
+
+    Liksom han allsicke kommit, så hans ankomst båtat mig.
+
+PYLADES.
+
+    Har han afven verkeligen hit till dessa bygder ländt?       730
+
+ORESTES.
+
+    Sent omsider; men befunnen niding strax mot vännerna.
+
+PYLADES.
+
+    Ock sin hustru, syndarinnan, förde han på skeppet hit?
+
+ORESTES.
+
+    Icke han; men honom förde hon till oss, och ingen ann.
+
+PYLADES.
+
+    Hvar är qvinnan, som Achaier utan tal allena ödt?
+
+ORESTES.
+
+    Här uti min borg, om eljes min jag borde kalla den.         735
+
+PYLADES.
+
+    Hvilka äro nu de orden, som du sagt din faders bror?
+
+ORESTES.
+
+    Att ej låta medborgsmännen dräpa mig och syster min.
+
+PYLADES.
+
+    Gudar, hvad blef härtill svaret? -- Detta just jag veta vill.
+
+ORESTES.
+
+    Han strök af, som sleme vänner göra emot vännerna.
+
+PYLADES.
+
+    Under hvilken förevändning? Vet jag det, så vet jag allt    740
+
+ORESTES.
+
+    Han kom hit, de dygdesama döttrars far, emellertid.
+
+PYLADES.
+
+    Tyndareus? kanhända vredgad emot dig, för dottrens skull.
+
+ORESTES.
+
+    Märker du? han dennes slägtskap färedrog framför min fars.
+
+PYLADES.
+
+    Dina vedermödor dela således ej tordes han.
+
+ORESTES.
+
+    Ej till kämpe blef han boren, men bland qvinnortapper man.  745
+
+PYLADES.
+
+    Du i största ofärd sväfvar, och nödvändigt måste dö.
+
+ORESTES.
+
+    Medborgsmännen rösta måste öfver vårt begångna mord.
+
+PYLADES.
+
+    Öfver hvad skall domen fällas? säg; ty jag i fruktan står.
+
+ORESTES.
+
+    Lefva eller dö det gäller: några ord om vigtig sak.
+
+PYLADES.
+
+    Flykta härifrån med systren, lemnande din kongaborg!        750
+
+ORESTES.
+
+    Ser du ej, hur vi bevakas af spioner öfverallt?
+
+PYLADES.
+
+    Jo, jag stadens gator skådat, stängda af beväpnade.
+
+ORESTES.
+
+    Som en stad af fienderna, så belägras ock vår kropp.
+
+PYLADES.
+
+    Spörj mig nu, hvarför jag lider; äfven jag förlorad är.
+
+ORESTES.
+
+    Genom hvem? Ty detta vore qval till mina plågor laggdt.     755
+
+PYLADES.
+
+    Strophios, min fader, vredgad har mig jagat hemifrån.
+
+ORESTES.
+
+    Klagar han dig enskildt, eller uppå statens vägnar an?
+
+PYLADES.
+
+    Vid din moders mord jag hjelpte; och han gudlös kallar mig.
+
+ORESTES.
+
+    Stackars vän, mitt brott -- så syns det -- skulle äfven skada dig!
+
+PYLADES.
+
+    Ej vi likne Menelaos; detta måste härdas ut.                760
+
+ORESTES.
+
+    Räds du ej, att Argos äskar döda dig, som mig, också?
+
+PYLADES.
+
+    Straffa mig, tillhör ej dessas, utan de Phokensers land.
+
+ORESTES.
+
+    _Pöbeln är en amper bjesse, när den vrånga målemän har_.
+
+PYLADES.
+
+    Men när den rättsinnta eger, rättsinnt städs besluter den.
+
+ORESTES.
+
+    Bra! hos folket måste talas.                                765
+
+PYLADES.
+
+                                 Om hvad vigtigt ärende?
+
+ORESTES.
+
+    Om jag sade medborgsmännen --
+
+PYLADES.
+
+                                  Att du handlat efter lag?
+
+ORESTES.
+
+    Hämnande min egen fader --
+
+PYLADES.
+
+                               Räds att du kan möta hårdt!
+
+ORESTES.
+
+    Bör jag krypa bort i tysthet för att dö?
+
+PYLADES.
+
+                                             Det vore fegt.
+
+ORESTES.
+
+    Hvad är då att göra?
+
+PYLADES.
+
+                         Finns väl räddning, om du stannar qvar?
+
+ORESTES.
+
+    Ingen alls!                                                 770
+
+PYLADES.
+
+               Men om du flyktar, finns väl hopp om räddning då?
+
+ORESTES.
+
+    Finnes visst, om sig så träffar.
+
+PYLADES.
+
+                                     Bättre det, än stanna qvar.
+
+ORESTES.
+
+    Ja, jag går.
+
+PYLADES.
+
+                Och äfven dödad, vackrare du så skall dö.
+
+ORESTES.
+
+    Mig medrätta sådant drabbar.
+
+PYLADES.
+
+                                 Blott man ville medge det!
+
+ORESTES.
+
+    Riktigt! så jag feghet undgår.
+
+PYLADES.
+
+                                   Bättre, än om qvar du blir.
+
+ORESTES.
+
+    Och man skulle mig beklaga -- -- --                         775
+
+PYLADES.
+
+                                  Mycket gör din ädla börd.
+
+ORESTES.
+
+    Vredgad -- att min fader dräpte -- -- --
+
+PYLADES.
+
+                                             Detta ögonskenligt är.
+
+ORESTES.
+
+    Bort vi måste. Fegt är dödas utan ära.
+
+PYLADES.
+
+                                           Visserligt!
+
+ORESTES.
+
+    Skole vi härom berätta för min syster?
+
+PYLADES.
+
+                                           Nej, o nej!
+
+ORESTES.
+
+    Tårar då helt säkert runne.
+
+PYLADES.
+
+                                Tåren stort järtecken är.
+
+ORESTES.
+
+    Då är tiga bäst.                                            780
+
+PYLADES.
+
+                     Med tiden skall du vinna deruppe.
+
+ORESTES.
+
+    Detta står mig blott ivägen -- -- --
+
+PYLADES.
+
+                                         Säg, hvad nytt åfärde är?
+
+ORESTES.
+
+    Att gudinnorne med gisslet hindra mig.
+
+PYLADES.
+
+                                           Dig sköter jag.
+
+ORESTES.
+
+    Svårt är krämpig man att nalkas.
+
+PYLADES.
+
+                                     Ej för mig, att nalkas dig.
+
+ORESTES.
+
+    Akta dig, att ta befattning med mitt rasreri!
+
+PYLADES.
+
+                                                  Får gå.
+
+ORESTES.
+
+    Är du icke rädd?                                            785
+
+PYLADES.
+
+                    _Bland vänner rädslan är ett sort förderf_.
+
+ORESTES.
+
+    Gå nu, styre för min fot!
+
+PYLADES.
+
+                              Det blifver mig ett kärt besvär.
+
+ORESTES.
+
+    Och till fadrens graf mig bringa!
+
+PYLADES.
+
+                                     Hvartill tjenade väl det?
+
+ORESTES.
+
+    Jag vill be, att han mig räddar.
+
+PYLADES.
+
+                                    Detta visst tillbörligt är.
+
+ORESTES.
+
+    Modrens vård jag ej vill skåda.
+
+PYLADES.
+
+                                    Ty hon var fiendtelig.
+
+KHOREN
+
+    Skynda derför, att Argeiers dom ej hinner fånga dig,        790
+    Foga, af din krämpa kraftlös, sida vid min sida tätt,
+    Att jag genast genon staden, föga för dess pöbel rädd,
+    Föga blyg, dig måtte bära. Hur kan jag mig te som vän,
+    Om i svåra olycksstunden jag dig ej mitt bistånd ger?
+
+ORESTES.
+
+    Sådant är, att _vänner_ ega, och ej _anförvandter_ blott.   795
+    _Ty en man, som, fastän främling, har med oss tillhopasmält.
+    Bättre är till vän besitta än blodsfränder tusentals_.
+
+        (Begge afträda)
+
+KHOREN
+
+    Stor lycka och ära stor, | Stroph.
+    Som sig förhäfde i Hellas, och
+    Invid Simuntiska böljorna,                                  800
+    Har återigen för Atreiderna gått om;
+    Allt efter gamle kongahusets gamla sed,
+    Då tvisten om det gyllene lamm
+    Bland Tantaliderna stod,
+    Ohygglige gästbud gåfvos, och                               805
+    Ädlaste söners slakt blef gjord.
+    Hvadan mord på mord, i vexlad
+    Blodsutgjutelse ej upphör
+    För de båda Atreider.
+    Bragd är obragd: att sin mors | Motstr.                     810
+    Kropp med jernbeväpnad hand
+    Sarga, och ett blodbestänkt
+    Svärd mot solens strålar svänga upp.
+    Att illa göra, är stor gudlöshet,
+    Och illasinnte männers galenskap.                           815
+    Vid dödens fruktan hon skrek,
+    Stackars dottren af Tyndareus:
+    "Son, du nidingsverk begår.
+    Dräpande din mor! -- Se till,
+    Då du jäktar efter fadersgunst.                             820
+    Att ej evig skam du får!
+    Hvad krämpa, jemmergråt och uselhet | Epod.
+    På jorden större är,
+    Än att med modersblod besöla sin hand?
+    Ack, föröfvande hvad gräsligt brott,                        825
+    Af vansinne hemsöks,
+    Eumeniderna ett byte nu,
+    Välfvande de skygga ögonlock,
+    Den Agamemnoneiske son!
+    O, den usle, som sin egen mors                              830
+    Barm, utur guldsydd korsett
+    Blottad, skådande, likväl
+    Stötte svärd i modershjertat,
+    För att hämnas fadermord!"
+
+ELEKTRA (inträdande.)
+
+    J tärnor, har ur dessa salar störtat ut                     835
+    Stackars Orestes, i gudskickadt raseri?
+
+KHOREN.
+
+    O nej! Till det Argeiska folk han gången är,
+    Afbidande den dom, som eder förestår,
+    I följd hvaraf J lefva måsten, eller dö.
+
+ELEKTRA.
+
+    Ve mig! Hvad har han gjort! Ho rådde väl dertill?           840
+
+        (Sändebudet nalkas.)
+
+KHOREN.
+
+    Pylades. Och -- som det tycks -- snart detta sändebud
+    Skall bringa dädan tidender om broder din.
+
+SÄNDEBUDET.
+
+    Ack, stackars -- stackars, aktingsvärda dotter, du
+    Utaf härförarn Agamemnon, o Elektra, hör
+    De olycksorden, som jag kom, att bringa dig!                845
+
+ELEKTRA.
+
+    O ve! med oss det är förbi. Klart är ditt tal.
+    [Ty -- såsom syns -- du kommit hit, ett olycksbud].
+
+SÄNDEBUDET.
+
+    Så föll Pelasgers dom, att broder din skall dö,
+    Och du, olyckliga, jemväl, på denna dag.
+
+ELEKTRA.
+
+    Ve mig! -- den stund är inne, för hvars fruktan jag         850
+    Ren längesedan tvinat bort i klagolåt.
+    Dock, hur gick rättegången? genom hvad beslut
+    Af de Argeier fälldes dödsdom öfver oss?
+    Säg, gamle man, om genom stenars kastning jag
+    Skall gifva upp min ande, eller genom svärd.                855
+    Jag, som mig samkat med min broder samma straff?
+
+SÄNDEBUDET.
+
+    Från landet kom jag just igenom stadens port,
+    Nyfikenhet, att om dig förspörja tidender,
+    Samt om Orestes. Ty emot din fader städs
+    Välvilja har jag hyst. -- Ock närde mig ditt hus,           860
+    Visst fattig karl, till vänners tjenst dock välberedd.
+    Då ser jag folket nalkas, och ta plats på kulln,
+    Dit fordom Danaos, att Aigyptos -- så sägs --
+    Genmäls, folket till gemensamt rådslag stämmt.
+    Vid sådan anblick sporde jag en medborgsman:                865
+    Hvad nytt i Argos? har från fienderna väl
+    Ett budskap så uppskakat Danaiders stad?
+    Han svarte: ser du ej Orestes, kommande
+    Der nära ren, att stå tillsvars för modermord?
+    Oväntad syn då ser jag, som jag aldrig bordt,               870
+    Pylades ser jag kommande med broder din.
+    Som gick med fällda ögon, och af krämpan matt;
+    Den andre, likt en bror, med vännen lidande,
+    Vid handen ledde vårdsamt med sig sjuklingen.
+    När de Argeiers skara nu fulltalig var,                     875
+    Uppstod herolden, ordande: ho yttrar sig,
+    Hurvida dödas, eller ej, Orestes bör.
+    Han modermördaren? Derpå uppreser sig
+    Talthybios, som med din far de Phryger slog.
+    Han förde nu, för makten undergifven städs,                 880
+    Tvetydigt tal, uppskattande din fader högt,
+    Dock berömmande din bror, men slema ord
+    Grannt välfvande, hur han emot föräldrar skref
+    Ej prislig lag; och mellertid han gaf alltjemt
+    Aigisthos' gynnare ändock en solskensblick.                 885
+    Ty sådant är det slägtet: för den lycklige
+    Herolder springa öfver käpp, och deras vän
+    Är den, som för befälet, och vid makten står.
+    Näst honom Diomedes, drotten, ordade;
+    Han tillät ej att döda hvarken broder din,                  890
+    Ej heller dig, men med förvisning straffa blott
+    Då vardt ett gny af några, huru väl han talt;
+    Men någre det ogillade. -- Då reser sig
+    En, som ej tand för tunga höll, i djerfhet stark,
+    Argeier, ej Argeier, dock förmådd dertill,                  895
+    På stojet litande och dristig skamlöshet,
+    Med talekraft, att bringa ofärd öfver folk.
+    _Ty när en man, i orden ljuf, i hjertat slem,
+    Förvillar pöbeln, det till statens ofärd sker.
+    Men de, som, vise, välfva städs odolska råd                 900
+    Om ej i ögonblicket, framdeles likväl
+    Bli statens gagn. Och detta föreståndaren
+    Bör inse klart; ty samma är förhållandet
+    Med den sam håller tal, och den som makten har._
+    Han sade, att Orestes borde liksom du                       905
+    Med stenkast dödas. Tyndareus dock slika ord
+    Åt mannen, som er döda bjöd, ingifvit sjelf.
+    Steg så en annan opp, och talte tvertemot,
+    Ej till geatalten fager, men behjertad man,
+    I staden sällan skådad och på torget med,                   910
+    _En man för sig: -- de endast rädda landet, de!_ --
+    Och klok, beredd att gå ibredd med egna ord,
+    Och flärdfri, i sin vandel oantastelig.
+    Han hade, att Orestes, Agamemnons son,
+    Var kransen värd, som ville hämnas fader sin,               915
+    I det han slem och gudlös qvinna slog ihjäl,
+    Som det afskaffade, att man ej väpnar sig,
+    Ej lemnar hus och hem, och drar i härnad ut,
+    Om husets vårdnad de, som bli derhemma qvar,
+    Förföra få, och brottbesöla kämpars bädd.                   920
+    Nu för hvar redlig väl han syntes hafva talt.
+    Och ingen sade mer ett ord. Då kom din bror,
+    Och talte: J, som Inachos' gebit bebon,
+    Att eder hämnas lika mycket som min far,
+    Jag drap min moder; ty om äkta männers mord                 925
+    Ej räknas hustrurna till brott, J skullen snart
+    Förödas, eller bli enhvar sin hustrus narr;
+    Och detta vore tvertemot hvad eder höfs.
+    Ty nu är hon, som svek min faders äkta säng,
+    Död vorden; om J viljen dräpa mig också,                    930
+    Upphäfves lagen, och till mord anledning blir.
+    Ty aldrig brist på sådan djerfhet vara skall.
+    Dock han, som syntes tala rätt, ej vann gehör.
+    Men han, den sleme talarn, fick hos folket rätt,
+    Han som din och din broders död påyrkade.                   935
+    Och knapt bevekte dem, att icke stena er.
+    Stackars Orestes, som likväl med egen hand
+    Förbandt sig dräpa, ännu denne dag, sig sjelf
+    Med dig. Nu honom leder ur församlingen
+    Pylades gråtande; och vänner följa med,                     940
+    Som honom ömka och beklaga. Innan kort
+    En bitter anblick väntar dig, och jemmerfull.
+    Svärd eller snara derfor tillred för din hals.
+    Ty lemna lifvet måste du; ditt adelskap
+    Ej räddat dig, ej heller Phoibos, Pythiern,                 945
+    Som på sin trefot sitter, -- utan dig förödt.
+
+KHOREN.
+
+    Ack, olyckssällla jungfru, hur du dokbehöljdt
+    Ditt anlete nedsänker nu, och ljudlös är.
+    Beredd att uti suckar brista ut och gråt!
+
+ELEKTRA.
+
+    Jag begynner min suckan, o Pelasgerland, | Stroph.          950
+    Och trycker hvita nageln uti kindren in, --
+    Blodigt olycksverk! --
+    Jag drabbar med slag det hufvud, som hemfallet är
+    Skuggornes fagra gudinna.
+    Thy juble Kyklopiska landet,                                955
+    Öfver min hals sänkande bödelsjernet,
+    Vår slägts ofärd.
+    Sådan miskund, miskund man ger
+    Dödsoffren båda
+    För Hellas' fordne höfvitsmän.                              960
+    Försvunnen är, försvunnen utaf Pelops' ätt | Motstr.
+    Hvarenda telning, och den fordna salighet,
+    Som fanns i stolt gemak.
+    Allt ödde gudarnes hat, och fiendtelig
+    Blodsdom, i hemmet fälld.                                   965
+    O ve, här skåden J, jordsöners
+    Mångtårige slägten och usle, hur mot förmodan
+    Ödets väg går!
+    _En med den andra ofärd städs
+    Vexlar, i tidens längd;                                     970
+    Allt menniskolif sig hvilar på lösan grundt_.
+    Gerna till den mellan himmel och
+    Jord sväfvande klippan jag ginge,
+    Hvilken deruppe i höjden
+    Hänger på gyllene kedjors                                   975
+    Länk, en klint från Olympen,
+    För att gråtande ropa an
+    Vår åltfader Tantalos,
+    Som aflade, aflade upphofsmännen
+    Till min ätt,                                               980
+    Som ofärd fick sig beskärd,
+    Då, vid fålars vingade jagt,
+    Uppstigen i fyrspannsvagn,
+    Pelops, på hafvets kust
+    Åkande, Myrtilos' kropp tilldöds                            985
+    Vräkte i hafvets svall,
+    Invid Geraistos' hvitböljiga,
+    Brusande stränder,
+    Körande vagnen fram.
+    Hvadan åt mitt ättehus                                      990
+    Vardt mångsuckigt förderf.
+    Genom Maias son,
+    När guldullige lammets
+    Jertecken, det slema, det slema,
+    Föddes i hjordarna                                          995
+    Hos hästmästaren Atreus.
+    Dän vardt split; och Zeus bevingad!
+    Solvagn, ifrån väg mot vestra
+    Himlaranden förr beträd,
+    Nödgade att ändra kosan                                    1000
+    Mot enfålig Eos.
+    Ock sjutalig Peleias' bana
+    Föreskref han nytt skick,
+    Och vedergällde mord med mord,
+    I Thyestes' beryktade måltid,                              1005
+    Samt falska Kretissan
+    Aeropas svekrådiga bädd.
+    Men sednast mig och min fader nu
+    Zeus hemsökt
+    Med mångplågiga hjertqval.                                 1010
+
+KHOREN.
+
+    Se, der nalkas din broder oss.
+    Genom dödsdom till saken fälld,
+    Och den trognaste mannen Pylades,
+    Som broderligt stödjer Orestes'
+    Stapplande fot,                                            1015
+    Med vårdsamt steg biträdande.
+
+ELEKTRA.
+
+    Ve mig! jag suckar, då jag, broder, skådar dig.
+    Vid grafven redan och framför de dödes bål
+    Ja, ve mig åter, vet när ögat blickar an
+    Ditt anlet' sista gången. Jag från sinnen är.              1020
+
+ORESTES.
+
+    Vill du ej tyst, och lemnande all qvinnlig låt,
+    Uthärda domen? -- Jemmerligt är det, men dock
+    Vi måste bära ödet, som oss förestår.
+
+ELEKTRA.
+
+    Hur skall jag tiga? -- att guds ljus på himlen der
+    Beskåda, oss olyckliga man unnar ej.                       1025
+
+ORESTES.
+
+    Ej dräp mig, du! Nog, stackars karl, af Args' folk
+    Jag mördad är, och nämn ej våra lidanden!
+
+ELEKTRA.
+
+    Orestes, hur beklaglig för din ungdoms lott,
+    Och bråda död! När du bör lefva, finns du ej!
+
+ORESTES.
+
+    Vid gudarna, kringväf mig ej med modlöshet.                1030
+    Olyckors minne bringande till tårar hän!
+
+ELEKTRA.
+
+    Vi måste dö: sin ofärd dock beklagar man;
+    _Ty alla menskor ha det arma lifvet kärt_.
+
+ORESTES.
+
+    Just denne dag är dödens dag: med snaran vi
+    Förödas, eller slipas svärd till vårt förderf.             1035
+
+ELEKTRA.
+
+    Dräp mig, min broder, att ej bland Argeierna
+    Det gör en ann, till hån mot Agamemnons ätt!
+
+ORESTES.
+
+    Af modersblodet har jag nog; dig rör jag ej,
+    Men aflid för dio egen hand, hur belst du vill.
+
+ELEKTRA.
+
+    Så händer det; och ej ditt svärd skall svika mig.          1040
+    Dock vill jag knyta armarna omkring din hals.
+
+ORESTES.
+
+    O, fröjda dig åt ringa sak, om fröjdfullt är,
+    Att sluta armarna kring den, som går tilldöds.
+
+ELEKTRA.
+
+    Högt älskade, som bär det aldraljufsta namn
+    För syster din och delar samma hjertelag!                  1045
+
+ORESTES.
+
+    Du smälter mina känslor, och jag vill genmäla dig
+    Med varm omfamning; skulle jag väl blygas mer?
+    Ack, systerhjerta! ack, mitt hulda famntag, du!
+    Oss uslingar, för äkta bädd och ättlingar,
+    Är sådan smekning endaste ersättningen.                    1050
+
+ELEKTRA.
+
+    Ve! kan ej samma svärd, om lagen medgaf det,
+    Oss döda begge? samma ceder ta vårt stoft?
+
+ORESTES.
+
+    Det vore ljufvast; men du ser ju, huru vi
+    Beröfvats vänner, för att dela samma graf.
+
+    ELEKTRA.
+
+    Han talte ej för dig, att du ej skulle dö,                 1055
+    Slem Menelaos, han, min fars förrädare?
+
+ORESTES.
+
+    Han sig ej viste; men vid spirans arf sitt hopp
+    Han fäste, varligt rädd att rädda vännerns.
+    Välan, o låtom oss en hjeltebragd begå,
+    Som anstår Agamemnon, och derefter dö!                     1060
+    Jag vill, för staden röjande min ädla stam,
+    Med svärdet genombåra hjertat, och du bör,
+    Detsamma vågande, detsamma föra ut.
+    O Pylades, jag ber dig, blif vår baneman,
+    Och, se'n vi härjats, tag bestyret med vår kropp!          1065
+    Och bär oss, och begraf oss två vid fadrens grift!
+    Farväl! -- till verket vandrar jag nu som du ser.
+
+PYLADES.
+
+    O nej, blif qvar! ty först och främst jag bannar dig.
+    Ifall du tror att jag vill lefva, när du dött.
+
+ORESTES.
+
+    Nåväl, hvi skulle egna dig att dö med mig?                 1070
+
+PYLADES.
+
+    Det frågar du! -- hvi lefva utan vännen min?
+
+ORESTES.
+
+    Du ej moder dräpt, som jag, olycklige.
+
+PYLADES.
+
+    Ilag med dig; thy bör jag lida ock med dig.
+
+ORESTES.
+
+    Spar lifvet åt din fader, och med mig ej dö!
+    Ty du har fosterland ännu, men icke jag.                   1075
+    Och fadersboning, och af gods en riklig skatt.
+    Men miste går du om min stackars systers hand,
+    Som jag dig lofte, vördande vårt vänskapsband.
+    Tag derför annan delarinna till din bädd,
+    Ty svågerskap emellan oss ej eger rum.                     1080
+    Nu mellertid, vår vänskaps tjusningsfulla namn,
+    Farväl! Ty ej för oss det finnes, men för dig.
+    Ty vi, som dö, all glädje bli beröfvade.
+
+PYLADES.
+
+    Du misstar dig rätt mycket om mitt tankesätt.
+    Fruktherrlig jord ej taga må min blod emot,                1085
+    Ej strålig ether, om jag nånsin sviker dig,
+    Och dig forråder, räddande mitt eget lif.
+    I mordet deltog jag, -- och vill ej neka det,
+    Till allt jag rådde, för hvars skull du straffad blir,
+    Och derför måste jag med dig och henne dö.                 1090
+    Ty henne, som jag sjelf mig valde ut till _brud_,
+    Som _maka_ jag anser; hvad eljes sade jag,
+    Till Delphis-landet kommen, och Phokensers stad.
+    Jag, som förrän olyckan inföll, var en vän,
+    Om jag din vän ej vore i olyckans stund?                   1095
+    Så får ej ske; men detta ock mig nära rör.
+    Och eftersom vi måste dö, samplägom nu,
+    Att Menelaos undfår sin beskärda del.
+
+ORESTES.
+
+    Min vän, ack, att jag såge det, och doge se'n!
+
+PYLADES.
+
+    Hörsamma mig, och dröj ännu med svärdets bruk!             1100
+
+ORESTES.
+
+    Jag gerna dröjer, blott jag hämnas fienden.
+
+PYLADES.
+
+    Var tyst! till qvinnor hyser jag ej mycken lit.
+
+ORESTES.
+
+    Räds ej för dessa! ty väninnor äro de.
+
+PYLADES.
+
+    Vi dräpe Helena, Menelaos till bitter harm.
+
+ORESTES.
+
+    Hur då? -- jag redo är, blott det kan prydligt ske.        1105
+
+PYLADES.
+
+    Vi slakte henne; hon hos dig är undangömd.
+
+ORESTES.
+
+    Visst är hon det, och re'n åt _sig_ förseglar allt.
+
+PYLADES.
+
+    Oh, icke än! -- Hon döden sjelf till fästman har.
+
+ORESTES.
+
+    Hvi ej? hon har beskydd utaf barbarerna.
+
+PYLADES.
+
+    Af hvilka? ty bland Phrygers folk jag ingen räds.          1110
+
+ORESTES.
+
+    Af speglars och essensers riksförvaltare.
+
+PYLADES.
+
+    Hon alltså hämtat med sig idel Troiskt bjefs?
+
+ORESTES.
+
+    Ett ringa kyffe ju för henne Hellas var.
+
+PYLADES.
+
+    De slafvars slägte mot de fries intet är.
+
+ORESTES.
+
+    Är detta gjordt, jag vägrar ej, att tvefaldt dö.           1115
+
+PYLADES.
+
+    Och jag minsann ej heller, blott jag hämnas dig.
+
+ORESTES.
+
+    Förklara saken och fullborda, som du sagt.
+
+PYLADES.
+
+    Vi gå ditin, kantänka för att döda oss.
+
+ORESTES.
+
+    Detder förstår jag, men jag resten ej förstår.
+
+PYLADES.
+
+    För henne briste vi i ångstens klagrop ut.                 1120
+
+ORESTES.
+
+    Så att hon gråter, innerst i sitt hjerta glad.
+
+PYLADES.
+
+    Oss ock skall unnas sådan fröjd, som henne då.
+
+ORESTES.
+
+    Hur skole vi föröfrigt strida ut vår strid?
+
+PYLADES.
+
+    Vi bäre hemligt svärd inunder kappan gömdt.
+
+ORESTES.
+
+    För drängarna hvad undergång bereds förut?                 1125
+
+PYLADES.
+
+    Vi stänge dem, en här, en der, i slottet in.
+
+ORESTES.
+
+    Och den, som icke tiger, måste slås ihjäl.
+
+PYLADES.
+
+    Och sedan röjer saken sjelf, hvad göras bör.
+
+ORESTES.
+
+    Helena dräpas! hemligheten vet jag nu.
+
+PYLADES.
+
+    Javäl! men hör också, hur vackert är mitt råd.             1130
+    Ty om emot en välanständig qvinnas bröst
+    Vi stötte svärdet, vore mordet nidingsdåd.
+    Nu lider hon sitt straff af hela Hellas' folk,
+    Hvars fäder hon har nedergjort, och barn förödt,
+    Hvars flickor hon beröfvat deras fästemän.                 1135
+    Det blir nu jubel; eld åt gudar tändes upp
+    Af dem, som önska dig och mig mång ärekrans.
+    För det vi gjöto ut den slema qvinnans blod.
+    Ej sedan mer du kallas modermördare,
+    Men, fri från sådant, tillhör dig ett bättre namn,         1140
+    Helenas, mångdräparinnans, baneman benämnd.
+    Ej bör -- ej bör gå Menelaos nånsin väl,
+    Enär din fader föll, och du och syster din.
+    Och moder -- -- -- tyst! det passar ej, att tala om.
+    Din borg ej ege han, som med Agamemnons lans               1145
+    Sin maka vann. Ja, längre jag ej lefva vill,
+    Om jag mot henne icke drar mitt blanka svärd.
+    Men om oss icke lyckas dräpa Helena,
+    Så tände vi på slottet eld, och brinne upp.
+    Och oss för ettdera ej äran undgå skall,                   1150
+    Att vackert räddas, eller också vackert dö.
+
+KHOREN.
+
+    Förtjent af alla qvinnors hat till verlden kom
+    Hon, Tyndariden, som satt fläck på eget kön!
+
+ORESTES.
+
+    Ack, intet bättre finns, än tillförlitlig vän,
+    Ej rikedom, ej välde; alltid folket är                     1155
+    Ett noll, uti jemförelse med ädel vän!
+    Ty du var upphofsmannen till Aigisthos' död,
+    Du uti farans stunder vid min sida stod.
+    Nu åter ger du mig på fienderna hämd,
+    Och sviker ej. Dock slutar jag ditt pris; förty            1160
+    Tungt faller sig, att öfverhopas med beröm.
+    Men då jag nu mitt lif tillspillo måste ge,
+    Jag fienderna näpsa vill, och sedan dö,
+    Att jag må dem föröda, som ha mig förrådt,
+    Att de må sucka, som olyckelig mig gjort.                  1165
+    Jag är ju Agamemnons son, som, Hellas' drott
+    Enhälligt vald, ej sjelfgjord, egde mellertid
+    Ett majestät från gud, som jag ej skända skall
+    Igenom slafviskt dödssätt; nej, på fri mans vis
+    Jag lemnar lifvet, se'n jag Menelaos qväst.                1170
+    Ty blott ett enda mål vi hunne, vore väl, --
+    Om oförmodad räddning vederfores oss, --
+    Det att ej dö, men döda; se, det önskar jag.
+    Ty det jag önskar, ljufligt är: att ur min mund
+    Förnöja sinnet kostnadsfritt med vingadt prat.             1175
+
+ELEKTRA.
+
+    Jag, broder, tror mig äfven finna härruti
+    För dig ett räddningsmedel, mig, och Pylades.
+
+ORESTES.
+
+    Du menar visst en guds försyn; hvar finna den?
+    Jag vet att vishet i ditt hjerta innebor.
+
+ELEKTRA.
+
+    Hör mig alltså, och hitåt sänd uppmärksamhet!              1180
+
+ORESTES.
+
+    Säg ut! -- -- _Det godas uppsåt har ock sitt behag_.
+
+ELEKTRA.
+
+    Du känner dottren utaf Helena; ej sannt?
+
+ORESTES.
+
+    Hermione, uppfostrad af min mor; jag vet.
+
+ELEKTRA.
+
+    Just hon till Klytaimnestras grafvård gången är.
+
+ORESTES.
+
+    I hvad beråd? hvad bygger du derpå för hopp?               1185
+
+ELEKTRA.
+
+    Hon tömmer gjuteoffer för vår moders skull.
+
+ORESTES.
+
+    Och hvad gemenskap med min räddning har detder?
+
+ELEKTRA.
+
+    Som gisslan tagen henne, när hon kommer dän.
+
+ORESTES.
+
+    Hvad räddningsmedel finns deri väl för oss tre?
+
+ELEKTRA.
+
+    När Helena är dräpt, om Menelaos då                        1190
+    Dig hotar, honom eller mig, som äro ett,
+    Säg, att du ärnar slå Hermione ihjäl,
+    Och draget svärd du höje öfver jungfruns hals.
+    Om nu dig skonar, icke önskande dess död,
+    Drott Menelaos, då han ser sin makas blod,                 1195
+    Låt fadren få behålla jungfruns unge lif!
+    Men om han ej kan styra sinnets häftighet,
+    Och hotar, drabba då med svärdet jungfruns hals!
+    Förty jag menar, fastän först han synes bål,
+    Så hejdar han sitt sinne småningom; han är                 1200
+    Ej modig eller djerf. Och deruti för oss
+    Jag finner räddningsmedlet: nu jag talar ut.
+
+ORESTES.
+
+    Ack du, som karlahjerta på din andel fått,
+    Och dock en kropp, bland fagra qvinnor priset värd,
+    Att lefva mer förtjenar, än att dödad bli.                 1205
+    Skall, Pylades, du stackars man väl miste gå
+    Om sådan qvinna, eller dela prislig bädd?
+
+PYLADES.
+
+    O, att hon följde till Phokensers stad med mig!
+    I sköna bröllopssånger der hon firades!
+
+ORESTES.
+
+    Vid hvilka tider kommer hem Hermione?                      1210
+    Att, liksom allt du eljes sagt på bästa vis,
+    Vi, om det lyckas, fånge nidingsfaders valp.
+
+ELEKTRA.
+
+    Jag menar hon är slottet ganska nära nu;
+    Ty sjelfva tiden sammanstämmer deruti.
+
+ORESTES.
+
+    Rätt så! men, syster Elektra, qvarstanna du                1215
+    Framför vår boning, och gif akt på jungfruns steg!
+    Och vakta, att ej någon, förrän mordet skett,
+    En bundsförvandt måhända, eller fadrens bror,
+    Må in i huset träda; utan gif du ljud,
+    Och bulta uppå dörren, eller skrik ditin.                  1220
+    Vi mellertid gå in, och till den sista strid
+    Vi båda väpne våra händer med ett svärd,
+    Min Pylades! Ty du rill dela mödorna.
+    Ack, fader, som den svarta nattens hus bebor,
+    Din son Orestes kallar dig till bundsförvandt              1225
+    I nödens stund; ty för din skull jag lider slikt
+    Helt oförskylldt, och är utaf din bror förrådd.
+    Fast rätt jag gjort. Hans maka nu jag fånga vill,
+    Och slå ihjäl: i sådant värf mitt bistånd var!
+
+ELEKTRA.
+
+    O fader, kom! om du förnimmer under jord                   1230
+    En bön från barnen, dem, för din skull, hotar död.
+
+PYLADES.
+
+    O du, min faders bundsförvandt, min bön också,
+    Drott Agamemnon, hör, och rädda dina barn!
+
+ORESTES.
+
+    Min mor jag dräpte.
+
+PYLADES.
+
+                        Samma svärd vidrörde jag.
+
+ELEKTRA.
+
+    Jag det bjöd, och röjde undan hvar betänklighet.           1235
+
+ORESTES.
+
+    Dig att hämnas, fader!
+
+ELEKTRA.
+
+                           Aldrig dig jag heller svek.
+
+PYLADES.
+
+    Du dina barn skall rädda, när all skymf du hör.
+
+ORESTES.
+
+    Jag tårar offra vill åt dig.
+
+ELEKTRA.
+
+                                 Jag klageljud.
+
+PYLADES.
+
+    Nu hören upp, och till saken vändom oss!
+    Ty om förbannelser framtränga under jord,                  1240
+    Han hör oss. Men du, åltfar Zeus, och hög Dike,
+    God framgång skänken honom, mig, och henne ock!
+    Ty för tre vänner finnes blott en dom, en rätt,
+    Att allesamman lefva, eller alla dö.
+
+ELEKTRA.
+
+    J, Mykenska väninnor, | Stroph                             1245
+    Som ypperst Argeiers Pelasgerland bebon!
+
+KHOREN.
+
+    Hvi ropar du oss, vördnadsvärda? dig ännu
+    Den titeln räddad är i Danaiders stad.
+
+ELEKTRA.
+
+    Er ställen der uppå stråkvägen somlige,
+    Och somlige på stigen här, som borgens vakt!               1250
+
+KHOREN.
+
+    I hvad mening ordar du så?
+    Svara mig, goda!
+
+ELEKTRA.
+
+    Mig griper fruktan, att någon vid borgen står,
+    Och kräfver hämd på hämd
+    För blod, som kommer att gjutas.                           1255
+
+HALFKHOREN.
+
+    Gån hädan! skyndom oss! Jag denna väg.
+    Mot solens uppgång, aktsamt bevaka vill.
+
+HALFKHOREN.
+
+    Och denna, som mot hennes nedgång förer, jag.
+
+ELEKTRA.
+
+    Åt alla sidor vänd nu dina ögons blick,
+    Först ditåt härifrån, och se'n åt annat håll!              1260
+
+KHOREN.
+
+    Vi göre, som du sagt.
+
+ELEKTRA.
+
+    Med välfvande ögonlock | Motstr.
+    Sen kring öfverallt, och lockarna stryken urväg!
+
+HALFKHOREN.
+
+    Hvem är han, som spökar på gatan der, landt-
+    Junkaren, som kring palatset smyger sig?                   1265
+
+ELEKTRA.
+
+    Det är med oss förbi, väninnor! -- Strax
+    För fienden de dolda svärdsman röjer han.
+
+HALFKHOREN.
+
+    Räds ej! ty tom, min vän,
+    Är gatan, fast du ej tror.
+
+ELEKTRA.
+
+    Hvad nu? Kan jag ej lita mer på dig?                       1270
+    Gif gladlig underrättelse.
+    Om framför borggården allt är tomt.
+
+HALFKHOREN.
+
+    Allt från det hållet stilla är, se för dig, du!
+    Ty ibland Danaider ingen menska nalkas oss.
+
+HALFKHOREN.
+
+    Af oss tag samma budskap: allt är tyst!                    1275
+
+ELEKTRA.
+
+    Välan, nu lägger jag örat till dörrn!
+    Hvi dröjen J derinne, i godan ro
+    Att slakta offret? -- -- -- hvi?
+    De mig ej höra; ack, olyckliga qvinna, jag!
+    Visst deras svärd, mot hennes fägring, mist sin egg.       1280
+    Ibland Argeierna kanske
+    Beväpnad man framstörtar,
+    Och hastar med undsättning
+    Till detta vårt palats. -- -- --
+    Gen bättre akt! -- att blunda är ej tid;                   1285
+    Men koxen hitåt somlige, och andre dit!
+
+KHOREN.
+
+    Jag vandrar, och vandrar,
+    Och glor öfverallt.
+
+HELENA (derinne.)
+
+    Ack, de Pelasgers Argos, hur nedrigt jag föröds!
+
+ELEKTRA.
+
+    Nu hörden J? de lägga re'n vid mordet hand.                1290
+    Det qvidandet var Helenas: så gissar jag.
+
+HALFKHOREN.
+
+    O Zeus', o Zeus' eviga makt.
+    Kom mina vänner ändtligen till bistånd!
+
+HELENA.
+
+    Jag dräpes, Menelaos! och till hjelp ej hastar du.
+
+ELEKTRA.
+
+    Nedhuggen, dräpen och döden, --                            1295
+    Dubbla, treeggiga svädet
+    Lyftadt i hand, --
+    Henne, som fader
+    Svek, och gemål, och så många
+    Bland Hellenerna ödde,                                     1300
+    Dräpna vid floden med svärd,
+    Der tårar med tårar sig mängde,
+    Mängde för jerneskotten,
+    Vid Skamandros' hvirflar.
+
+KHOREN.
+
+    St. stilla, stilla! -- nu ett ljud förnummo vi             1305
+    Af någon som kring kongabergen störtar fram.
+
+ELEKTRA.
+
+    Midtunder sjelfva mordet, J vänner, kom
+    Hermione; o, låtom oss nu tysta bli!
+    Ty rakt hon länder, störtande i gillrets garn.
+    Ett kostligt byte varder vårt, ifall hon grips.            1310
+    Stån derför stilla nu igen med lugnad blick,
+    Och med en min, som röjer intet af hvad sker!
+    Jag ock vill välfva mina ögon skarpt omkring,
+    Liksom jag icke visste, hvad derinne görs.
+        (till Hermione)
+    Min jungfru, kommer du från Klyteimnestras graf.           1315
+    Som du bekransat, och med gjuteoffer prydt?
+
+HERMIONE.
+
+    Den döda jag försonat har, och kommer hit,
+    Re'n fjerran från palatset skrämd utaf de rop,
+    Som jag derinnanföre hörde höja sig.
+
+ELEKTRA.
+
+    Hvad säger du? Oss anstå suckar mycket väl.                1320
+
+HERMIONE.
+
+    O, var beskedlig, och låt höra hvad förspörjs!
+
+ELEKTRA.
+
+    Mig och Orestes detta land till döden dömmt.
+
+HERMIONE.
+
+    Visst icke er, som ären mine slägtingar.
+
+ELEKTRA.
+
+    Så är beslutet; -- och vi lyde nödens lag.
+
+HERMIONE.
+
+    Kanske fördenskull skriet uti borgen hörs?                 1325
+
+ELEKTRA.
+
+    Bönfallande inför Helenas fot så ropar han.
+
+HERMIONE.
+
+    Hvem då? -- -- Jag intet vet, om du ej säger mig.
+
+ELEKTRA.
+
+    Stackars Orestes, för eget lif, och mitt jemväl.
+
+HERMIONE.
+
+    Med skäl då ljuder eder borg af klagerop.
+
+ELEKTRA.
+
+    Ja, hvarför eljes skulle man väl skria så?                 1330
+    Kom med ditin, och dela bön med vännerna,
+    Gör knäfall för din mor, den öfverlyckliga,
+    Att Menelaos ej må se oss mördade.
+    Men du, som fostrats i min moders armar upp,
+    Vår ofärd lindra, och mot oss barmhertig var!              1335
+    Kom nu med mig till vigtigt värf! Jag går förut;
+    Ty du får oss all räddnings ende utväg är.
+
+HERMIONE.
+
+    Nåväl jag drisigt träder med min fot ditin!
+    Och räddens, hvad på mig beror!
+
+ELEKTRA.
+
+                                    I borgen här,
+    Svärdprydde männer, tagen J ej rofvet fatt?                1340
+
+HERMIONE (inträdande.)
+
+    Ve mig! och hvilka skådar jag?
+
+ORESTES.
+
+                                   Här tigas bör;
+    Ty oss till räddning, och ej dig, du lände hit.
+
+ELEKTRA.
+
+    Ta'n fatt! ta'n fatt! och när ni uppå flickans hals
+    Laggt sfvärdet, biden, tills att Menelaos ser,
+    Hur, när han råkat ut för rätta män, och ej                1345
+    De Phryggers pack, han lider hvad de slema höfs.
+        (till Khoren.)
+    Se så, väninnor, väcken buller nu.
+    Buller och oljud
+    Framför palatset, att det mord, som der begås,
+    Ej väcka må stor fruktan bland Argeierne,                 1350
+    Så att de skulle skynda till kongens borg,
+    Förrn ögonskenligt jag har sett Helenas kropp,
+    Blodsölad, död, i salen liggande,
+    Åtmistone fått bud derom af tärnorna!
+    Ty somt af saken känner jag, och somt ej visst.            1355
+
+KHOREN.
+
+    Medrätta gudars hämd
+    Har drabbat Helena,
+    Ty hon med tårar hela Hellas uppfyllde,
+    Igenom fördömde Idaiern
+    Paris, som bragte Hellas till Ilios.                       1360
+    St. Låset bör jag smälla uti kongens borg!
+    Nu någon Phrygier kommer ut derinnifrån.
+    Af hvilken vi få höra hvad som förehafs.
+
+PHRYGIERN.
+
+    Argeiers svärd och döden jag flydde,
+    På mina fremlinga skor,                                    1365
+    Utöfver sänggemakets cedergolf,
+    Genom Doriska pelarhvalf,
+    Hitut! hitut! ack himmel, ack himmel!
+    Med en fremmandes irring.
+        (till Khoren.)
+    Ve! hvart flyr jag, J qvinnor,                             1370
+    Gråa ethern igenom,
+    Eller hafvet, som Okeanos,
+    Tjurhufvut, i famnen sluter,
+    Och välfver sig jorden omkring?
+
+KHOREN.
+
+    Hvad nu? du slaf hos Helena, Idaiske karl!                 1375
+
+PHRYGIERN.
+
+    Ilios, Ilios, ve mig, ve!
+    Du sköskokiga Phrygiens stad,
+    Idas heliga klippa,
+    Hur jag beklagar din undergång,
+    I sorgeligt, sorgeligt qväde                               1380
+    Med fremmande ljud!
+    Igenom fågelborna skönögat,
+    Svanvingade, fagra
+    Ledas dotter, SkamHelena,
+    SkamHelena, det stolte,                                    1385
+    Apolloniske Pergamos
+    Djefvul, du föll, O ve;
+    Beklageligt, beklageligt!
+    Arma Dardania, du Ganymedes',
+    Zeusälsklingens, riddarborg!                               1390
+
+KHOREN.
+
+    Säg ut beatämdt allt hvad derinne föregår;
+    Ty dessförinnan fattar jag ej meningen!
+
+PHRYGIERN.
+
+    Ajjemini, jemini vid furstedöd
+    Barbarerne säga -- -- aj, aj,
+    Med Asias tungmål, när kongablod                           1395
+    Varder på marken gjutet
+    Af Aïdes' stålsvärd ut. -- -- --
+    I slottet kommo, att jag allt må säga dig
+    Hellenske lejon, äkta tvillingsbröder två.
+    Härförarn sjelf man kallade den enes far,                  1400
+    Den andre son till Strophios, en illsinnt man,
+    Just som Odysseus, uti all sin tystnad dolsk,
+    Mot vänner trofast, och till modet oförskräckt,
+    I härnad insigtsfull, en mordisk orm.
+    Tvi hans välbetänkta lugn,                                 1405
+    Den våldsverkarens!
+    In de trädde nu, och satte sig
+    Vid qvinnans stol, som krypskytten Paris
+    Bortröfvat, ögat flödande
+    Af tårar, ödmjuksfullt,                                    1410
+    En på den ena, andre på den andra sidan,
+    Väpnade männer två.
+    Och bönfallande armar om knä't
+    De slogo, de slogo på Helena nu;
+    Upp sprungo då, skyndsamt sprungo                          1415
+    De Phrygiske knektar; den ene
+    Tillsporde den andre, förskräckt:
+    "Är svek här åfärde?"
+    Somliga syntes ej så;
+    För andra det tycktes, att gillrets                        1420
+    Garn kring Tyndaros' dotter
+    Försåtligen snodde den
+    Modermördande ormen.
+
+KHOREN.
+
+    Hvar var du då? -- kanske af skrämsel undanflydd?
+
+PHRYGIERN.
+
+    På Phrygiske slafvars Phrygiska vis,                       1425
+    Vid Helenas, Helenas lockar,
+    Jag sod då, och svalka -- svalka
+    Med grann solfjäder på kinden gjöt,
+    Uppå Barbarers vis.
+    Sjelf linet ifrån sin slända hon                           1430
+    Med fingren tvinnade,
+    Och garnet på golfvet fälla lät.
+    Af Phrygiskt byte till grafven en pryd-
+    nad önskande väfva af lia.
+    Ett purpurne täcke,                                        1435
+    Skänk åt Klytaimnestra.
+    Tilltalade nu Orestes
+    Lakainska qvinnan; "dotter af Zeus,
+    Tag hitåt med foten ett steg,
+    Uppstigen ur länstoln,                                     1440
+    Till Pelops' din åltfadrens plats,
+    Vid urgammal härd,
+    Att du må höra mina ord!"
+    Nu för han, nu för han henne, som följ-
+    de, utan att ana, hvad skulle ske.                        1445
+    Medhjelparen annat företog,
+    Den sleme Phokensaren, strax:
+    "Gån J urvägen ej, städs sleme Phrygier?"
+    Och en han stängde här, en annan der;
+    Uti häststallen somliga,                                   1450
+    I festgemaken somliga, och somliga
+    Båd' här och der, aflägsnande
+    Så långt som möjligt alla från sin fru.
+
+KHOREN.
+
+    Hvad hände sedan efter detta vidare?
+
+PHRYGIERN.
+
+    Idaiska moder, moder,                                       1455
+    Mäktiga, mäktiga! -- Ve
+    De blodiga mord, lagstridiga brott,
+    Som jag set, som jag sett
+    I förstars palats!
+    Inunder purpurmantelns dunkel drogo de                     1460
+    Med händren svärden fram,
+    Och välfde hit och dit
+    Sitt öga, om tillstädes någon fanns.
+    Likt fargaltar ifrån ber-
+    gen, inför qvinnan trädande,                               1465
+    De sade: "du måste dö!
+    Du måste dö! -- Din sleme make dräper dig,
+    Som sin egen broders son
+    I Argos åt döden förrådde."
+    Hon skriade, skriade: ve mig, ve!                          1470
+    Hon stack den mjella armen i sin barm.
+    Och drabbade hufvut med jemmerslag,
+    Och med flyende fot på gyllne sandalen
+    Ett steg hon tog, hon tog. I dess lockar
+    Fingrarna störte Orestes,                                  1475
+    På Mykeniske skon framträdd,
+    Och böjande nacken mot venstra skuldran,
+    Han ernade halsen drabba
+    Med blixtrande svärdet.
+
+KHOREN.
+
+    Hvar voro Phrygerne i huset då, till hjelp?                1480
+
+PHRYGIERN.
+
+    Vid hennes nödrop, dörrar och dörrposter vi
+    Med stafvar stötte ut, der vi förvarades,
+    Och hastade till hjelp, en hän och dädan en,
+    Med stenar den, en annan med en lans,
+    En hållande i händerna utdraget svärd.                     1485
+    Tillmötes oss kom Pylades,
+    Okufvelig, sådan -- sådan,
+    Som Phrygiske Hektor, eller treplymad Aias,
+    Hvilken jag såg, jag såg i Priamos' kongaborg.
+    Vi drabbade samman med svärden strax,                      1490
+    Och påstund, påstund röjde nu
+    Vi Phryger, hur mycket i Ares' strid
+    Underlägsne vi äre Helleniska härn.
+    En griper till flygten; död ligger en ann;
+    Den ene är sårad; den andre bönfaller                      1495
+    Om räddning från döden,
+    Och vi stucko oss undan i mörkret;
+    De döde stupade, ock döende, ock lågo der.
+    Ack, stackars Hermione inträdde nu
+    Till det blodiga nederlag                                  1500
+    Af sin moder, som henne osäll födt.
+    Anrusande, som thyrsoslöse Bakkhantinnor,
+    De henne likt en lejonvalp med händren
+    Rykte till sig, och åter emot Zeus' dotter
+    Vände sig, för att mörda.                                  1505
+    Men ur gemaket hon redan
+    Och kongaborgen förstvunnit, --
+    O Zeus, och Jord, och Dag och Natt! --
+    Anten genom trolleri
+    Eller Magers konstleri,                                    1510
+    Eller gudars snatteri.
+    Hvad sedan hände, jag ej vet,
+    Ty på ilande fot jag genast mig smög derfrån.
+    Mångsuckiga qval, mångsuckiga                                1515
+    Menelaos härdade ut,
+    För att bringa från Troia
+    Onyttiga Helena hem.
+
+KHOREN.
+
+    Uppå det ena nya följer nu det andra strax:
+    Ty svärdbeväpnad framför borgen skådar jag
+    Orestes med förtviflans steg ankommande.                   1520
+
+ORESTES.
+
+    Hvar är mannen, som ur borgen undansmög sig glafven min?
+
+PHRYGIERN.
+
+    Drott, jag dig tillfotafaller, helsande på Phrygers vis.
+
+ORESTES.
+
+    Ej i Ilios vi äre, äre på Argeïsk mark.
+
+PHRYGIERN.
+
+    Lifvet för den kloke allstäds mera ljuft än döden är.
+
+ORESTES.
+
+    Skrek du ej på Menelaos, att han skulle skynda hit?        1525
+
+PHRYGIERN.
+
+    Dig jag färdig är att bistå; ty du är det mera värd.
+
+ORESTES.
+
+    Menar du då, att medrätta Tyndareiska dottren draps?
+
+PHRYGIERN.
+
+    Om hon haft tredubbla halsar, hon medrätta mistat dem.
+
+ORESTES.
+
+    Rädslan smickrar från din tunga; hjertat tänker icke så.
+
+PHRYGIERN.
+
+    Hvarför ej? hon ödde Hellas och allt Phrygiernas folk.     1530
+
+ORESTES.
+
+    Svär, -- ty eljes jag dig dödar -- att du icke smickrar mig!
+
+PHRYGIERN.
+
+    Vid mitt lif jag det bedyrar; och då svär jag visst ej men.
+
+ORESTES.
+
+    Var för alla Phryger jernet ock i Troia så en skräck?
+
+PHRYGIERN.
+
+    Bort med svärdet! mig så nära hiskligt blixtrar det af blod.
+
+ORESTES.
+
+    Räds du, att i sten förvandlas, liksom såge du Gorgo?      1535
+
+PHRYGIERN.
+
+    Dö jag räds; men allsej känner hufvudet utaf Gorgo.
+
+ORESTES.
+
+    Slaf, hvi fruktar du för döden, som från ofärd räddar dig?
+
+PHRYGIERN.
+
+    Hvarje menska, -- äfven slafven, glades att Guds dager se.
+
+ORESTES.
+
+    Riktigt sagdt! ditt vett dig räddar; gå i borgen åter in!
+
+PHRYGIERN.
+
+    Du ej dräper mig?                                          1540
+
+ORESTES.
+
+                      Du slipper.
+
+PHRYGIERN.
+
+                                  Ack, du sagt ett vackert ord!
+
+ORESTES.
+
+    Dock vi vilje oss besinna.
+
+PHRYGIERN.
+
+                               Det var icke vackert sagdt.
+
+ORESTES.
+
+    Dåre är du, om du menar, att jag blodar halsen din;
+    Ty du varken är en kvinna, eller räknas du bland män;
+    Men att du ej måtte höja nödrop, jag ur borgen kom,
+    Ty on Argos skri förnimmer, väckes det påstunden opp.      1545
+    Att med klingan Menelaos möta, jag allsicke räds;
+    Komme han, med blonda lockar öfver axeln prunkande!
+    Ty om han Argeier medför hit till denna kongaborg,
+    Helena att hämnas, om han icke mig förskona vill,
+    Samt min syster, och Pylades, som med mig utföre allt,     1550
+    Skall han skåda få sin dotters och sin makes tvenne lik.
+
+KHOREN.
+
+    O ve, hvad olyckslott!
+    I nytt elände, nytt förskräckligt,
+    Genom Atreiderna störtad är vår kongeborg.
+
+HALFKHOREN.
+
+    Hvad göre vi? förkunne vi till staden det?                 1555
+    Eller tige vi stilla?
+
+HALVKHOREN.
+
+    Vänninor; säkrast detta är.
+
+HALVKHOREN.
+
+    Se, framför palatset, se, den hvirflande rök,
+    Som genom ethern sig höjer, förklarar allt!
+
+HALVKHOREN.
+
+    De facklor tända, för att bränna kongens borg,
+    Den Tantaleiska; ej de afstå ifrån mord.                   1560
+
+HALVKHOREN.
+
+    Slutet bestämmer Gud för oss mänskor,
+    Slutet, huru han vill.
+    Och väldiga hämdemakters kraft
+    Har drabbat kongaborgen med blod
+    För det slå Myrtilos stätten ur vagnastoln.                1565
+
+KHOREN.
+
+    Der jag varsnar Menelaos, närmad till vår kongaborg
+    Skyndesamt: han visst förnummit hvad derinne föregår.
+    Skynden er derför att skjuta reglar strax för dörrarna,
+    Atreus' ättlingar derinne! Bjesse är den lycklige
+    Emot den som ofärd drabbat: såsom dig, Orestes nu.         1570
+
+MENELAOS.
+
+    Jag kommit hit, förnimmande missdåd och våld
+    Af tvenne lejon; männer dem ej kallar jag.
+    Ty jag försporde, att min äkta hälft väl ej
+    Är mördad, men försvunnen dock, ur allas syn,
+    Ett lösligt prat förnimmande, som, illa skrämd,            1575
+    En viss androg hos mig; men modermördarens
+    Är detta verk: isanning vardt att skratta åt.
+    Man öppne huset! Tjenarne befaller jag
+    Instöta dörrn, att jag åtminstone min dotter må
+    Befria ur de blodbestänkte männers våld,                   1580
+    Och att jag må min arma stackars maka få
+    Tillbaka, på hvars lik med egna händer se'n
+    Jag ärnar dräpa dem, som mördat min gemål.
+
+ORESTES (på taket.)
+
+    Hör på du, kom med händren ej vid detta lås! --
+    Dig, Menelaos, menar jag, af fräckhet stinn, --            1585
+    Ty eljes sönderkrossar jag din hufvudskål
+    Med murken bit ur taket, fordom mästarverk.
+    För din enträgenhet är dörren stängd med bom,
+    Som nog dig hindra skall, att våldsamt tränga in.
+
+MENELAOS.
+
+    Hvad är åfärde nu? jag skådar facklors sken,               1590
+    Och dessa män, på bergens tak förskansade,
+    Och svärdet hotande min egen dotters hals.
+
+ORESTES.
+
+    Vill du mig spörja? eller vill du höra mig?
+
+MENELAOS.
+
+    Just intetdera; höra måste jag likväl.
+
+ORESTES.
+
+    Jag ärnar dräpa dotter din, -- -- -- kan du förstå.        1595
+
+MENELAOS.
+
+    Se'n Helena du dräpt, till mord du lägger mord?
+
+ORESTES.
+
+    Ack, att så vore, och ej gudar gäckat mig!
+
+MENELAOS.
+
+    Du nekar, fast du dräpt, och talar fräckt såder?
+
+ORESTES.
+
+    Ett futtigt nekande! o, om jag hade dock -- --
+
+MENELAOS.
+
+    Hvad sak uträttat? du mig gör förskräckelse.               1600
+
+ORESTES.
+
+    Jo, Hellas' skamfläck skickat till afgrundens natt.
+
+MENELAOS.
+
+    Min hustrus lik mig gif, att jag må jorda det!
+
+ORESTES.
+
+    Kräf det af gudar! Men din dotter dräper jag.
+
+MENELAOS.
+
+    Så modermördaren till mordbragd tillägger mord.
+
+ORESTES.
+
+    Nej, hämnarn af en far, som mördad du förrådt.             1605
+
+MENELAOS.
+
+    Dig var ej nog din moders redan gjutna blod?
+
+ORESTES.
+
+    Att _hexor_ slagta aldrig nånsin tröttnar jag.
+
+MENELAOS.
+
+    Tar du ock, Pylades, i denna mordbragd del?
+
+ORESTES.
+
+    Han medger stillatigande; mitt "Jo" är nog.
+
+MENELAOS.
+
+    Det skall du ångra, om du ej på vingar flyr.               1610
+
+ORESTES.
+
+    Vi ärne icke fly, men tända huset an.
+
+MENELAOS.
+
+    Du vill förstöra således din fadersborg?
+
+ORESTES.
+
+    Att du ej får den. Och din dotter dräper jag.
+
+MENELAOS.
+
+    Dräp bara! ty då kommer du tillsvars för mig.
+
+ORESTES.
+
+    Så är det.                                                 1615
+
+MENELAOS.
+
+               Ve, o ve! gör ingalunda så!
+
+ORESTES.
+
+    Var tyst! och håll tillgodo hvad medrätta sker!
+
+MENELAOS.
+
+    Är rättvist, att du lefver?
+
+ORESTES.
+
+                                Jag är landets kong.
+
+MENELAOS.
+
+    Hvad lands?
+
+ORESTES.
+
+                Just här i Argos, det Pelasgiska.
+
+MENELAOS.
+
+    Vigvattnet nalkas, skulle anstå dig?
+
+ORESTES.
+
+                                         Hvi ej?
+
+MENELAOS.
+
+    Du skulle offra före striden?                              1620
+
+ORESTES.
+
+                                  Du kanske?
+
+ENELAOS.
+
+    Jo; jag är ren i händren.
+
+ORESTES.
+
+                              Men i sinnet ej.
+
+MENELAOS.
+
+    Ho ville dig tilltala?
+
+
+ORESTES.
+
+                           Den som är farsvän.
+
+MENELAOS.
+
+    Än den, som hedrar moder sin?
+
+ORESTES.
+
+                                  Lycksalig är.
+
+MENELAOS.
+
+    Alltså ej du?
+
+ORESTES.
+
+                  Mig _hexorna_ behaga ej.
+
+MENELAOS.
+
+    Tag svärdet från min dotters hals!                         1625
+
+ORESTES.
+
+                                       Det ljuger du!
+
+MENELAOS.
+
+    Min dotter dräper du?
+
+ORESTES.
+
+                          Deri ej ljuger du!
+
+MENELAOS.
+
+    Hvad vill jag göra?
+
+ORESTES.
+
+                        Gå till Argos' folk, och bed -- --
+
+MENELAOS.
+
+    Hvem skall jag bedja?
+
+ORESTES.
+
+                          Staten, att ej döda oss.
+
+MENELAOS.
+
+    Min dotter eljes mörden J?
+
+ORESTES.
+
+                               Så saken stå.
+
+MENELAOS.
+
+    Min stackars Helena!                                       1630
+
+ORESTES.
+
+                         Och jag ej ömkvärd är.
+
+MENELAOS.
+
+    Som offer jag dig bragt från Troia.
+
+ORESTES.
+
+                                        Om så är -- --
+
+MENELAOS.
+
+    Se'n tusen qval mig qvalt.
+
+ORESTES.
+
+                               För min skull ej likväl.
+
+MENELAOS.
+
+    Jag lidit grymt.
+
+ORESTES.
+
+                     Mig var du då ogagnelig.
+
+MENELAOS.
+
+    Du snärjer mig.
+
+ORESTES.
+
+                    Dig sjelf du snärjt, du sleme man!
+    Hör hit, Elektra, tänd på kongaborgen eld,                 1635
+    Och du, bland mina vänner tillförlitligast,
+    Min Pylades, stick eld uti palatsets tak!
+
+MENELAOS.
+
+    O du, Danaers jord, och folk i Argos' land,
+    Ack, viljen J med väpnad hand ej hjelpa mig?
+    Ty mannen der med våld utkräfver af vår stad,             1640
+    Att lefva, fast han skändligt ufgjöt modersblod.
+
+APOLLON.
+
+    O Menelaos, hejda du din vredes fart!
+    Jag Pboibos, son af Leto, här tilltalar dig.
+    Men du, som svärdbeväpnad hotar dotter hans,
+    Orestes, äfven veta må hvad bud jag bär.                   1645
+    Den Helena, som du att dräpa sinnad var,
+    Af vrede emot Menelaos full, -- är fri:
+    Hon är det, som J skåden der i etherns rymd,
+    Den räddade, ock genom dig ej mördade.
+    Jag räddat henne, och ifrån ditt bödelssvärd               1650
+    Befriat, på befallning af vår fader Zeus.
+    Förty Zeus' dotter ju odödlig vara bör,
+    Samt, hos Kastor och Polydeukes; uti etherns rymd
+    Bisittarinna, hjelpa de sjöfarande.
+    En annan maka må du bringa i din borg,                     1655
+    Emedan gudarne, för hennes dejlighet,
+    Hellener bragt i handgemäng och Phrygier,
+    Och dödar utsändt, att från jorden plåna bort
+    Det fräcka menskoslägtets öfverfulla tal.
+    Så är förhållandet med Helena; men du,                     1660
+    Orestes, bör bege dig utom landets gräns,
+    Och bo uppå Parrhasisk mark i ett års tid.
+    Det stället heta skall, till minne af din flygt,
+    Bland Azaner och Arkader Oresteion.
+    Och, gången dädan till de Athenaiers stad,                 1665
+    Utlofva böter för utgjutet modersblod
+    Inför de tre Erinnyer; men gudarne,
+    Rättsskiparne på Areskulla, rättrådigt straff
+    Pålägga dig, och målet der du vinna bör.
+    Och henne, som du hotar nu med svärdet så,                 1670
+    Hermione, du äkta skall; Neoptolemos,
+    Som ärnar henne äkta, äktar henne ej.
+    Ty honom är beskärdt, att dö för Delphiskt svärd
+    När på Achilleus, fader hans, jag kräfver straff.
+    Åt Pylades din systers hand, som du bestämmt,              1675
+    Du gifva må; han vänta kan ett lyckligt lif.
+    I Argos låt Orestes, Menelaos, spiran ha;
+    Och dig till Spartas jord begif, och herrska der
+    I landet, du med henne fick, som tusen qval
+    Beredde dig, tilldess hon förde dig hit hem.               1680
+    Här inför staten allt tillrätta ställer jag,
+    Som honom tvang, att egen moder slå ihjäl.
+
+ORESTES.
+
+    Orakelgud, i dina svar ej nånsin du
+    Bedrägelig har varit, men sannfärdig städs!
+    Mig kom den fruktan på, att, hörande en röst               1685
+    Från trollen, jag mig skulle tycka höra dig.
+    Men allt går bra, och jag hörsammar dina ord.
+    Se nu, från död befriar jag Hermione,
+    Och henne äktar, om sitt bifall fadren ger.
+
+MENELAOS.
+
+    O Helena, Zeus' dotter, hell! jag prisar dig,
+    Invånarinna uti gudars sälla hem!
+    Åt dig, Orestes, ock min dotter lemnar jag,
+    På Phoibos' bud. -- Välbördig sjelf, välbördig mö
+    Till äkta tag, och lycklig vare du, och jag!
+
+APOLLON.
+
+    Nu vandren allesamman, dit jag bjuder er,                  1695
+    Och trätan sliten!
+
+MENELAOS.
+
+                       Dig hörsamma måste man.
+
+ORESTES.
+
+    Så gör ock jag, och med min lott försonar mig,
+    O Menelaos, och ditt budord, Loxias!
+
+APOLLON.
+
+    Nu er väg! nu er väg! Samdrägtighet,
+    Den sköna gudinnan, vördande; men jag                      1700
+    Vill Helena bringa till Kronions sal,
+    Och de tindrande stjernors himmel,
+    Der bredvid Hera, och Herakles' gemål,
+    Heba, som gudinna hon thronar,
+    Af menskorna ärad med offer städs,                         1705
+    Jemte Tyndariderna, söner af Zeus,
+    Beskyddande hafvets sjömän.
+
+KHOREN.
+
+    Ack, du herrliga Segergudinna, mitt lif
+    Du evigt skydda må,
+    Och aldrig tröttna, att kröna det!                         1710
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Orestes, by Euripides
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ORESTES ***
+
+***** This file should be named 56547-8.txt or 56547-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/6/5/4/56547/
+
+Produced by Jari Koivisto
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
