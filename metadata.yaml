@@ -1,0 +1,33 @@
+_repo: Orestes_56547
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sjöström, Axel Gabriel
+    alias: Sjostrom, Axel Gabriel
+    birthdate: 1794
+    deathdate: 1846
+    gutenberg_agent_id: '47759'
+    url: http://www.gutenberg.org/2009/agents/47759
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Euripides
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2018-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56547'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Orestes
+url: http://www.gutenberg.org/ebooks/56547
